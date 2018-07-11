@@ -14,7 +14,7 @@ Project structure
 -----------------
 
 * `_includes`: basic elements of any page (e.g. header, footer, ...)
-* `_posts`: every single item for the corporate identity, th
+* `_posts`: every chapter of the document
 * `_sass`: sass folder
 * `assets`: all downloadable content
 * `css`: site specific style settings
