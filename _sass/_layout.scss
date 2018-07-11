@@ -1,4 +1,12 @@
 /**
+ * Fonts
+ */
+@font-face {
+    font-family: "u1f400";
+    src: url("/assets/u1f400.woff") format('woff');
+}
+
+/**
  * Site header
  */
 .site-header {
@@ -263,6 +271,9 @@
     margin-left: 0;
   }
 }
+.affix-top {
+    position: absolute;
+}
 
 /**
  * Posts
@@ -346,4 +357,8 @@
 span.anchor-container {
     float: right;
     font-size: 1em;
+
+    a {
+        font-family: "u1f400";
+    }
 }
