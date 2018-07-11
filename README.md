@@ -1,4 +1,4 @@
-FanCie Huisstijldocument
+PrivaCie GDPR-documentt
 ========================
 
 Prerequisites
