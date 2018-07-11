@@ -1,0 +1,11 @@
+# Site settings
+title: Privacy Regulation Document - Inter-Actief
+email: privacy@inter-actief.net
+description: > # this means to ignore newlines until "baseurl:"
+  In dit document kan je alle details over privacy binnen Inter-*Actief* vinden.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+github_username:  Inter-Actief
+
+# Build settings
+markdown: kramdown

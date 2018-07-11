@@ -1,0 +1,44 @@
+---
+lang: en
+---
+<html>
+
+  {% include head.html %}
+
+  <body data-spy="scroll" data-target=".scrollspy">
+
+    {% include header-en.html %}
+
+    {% assign posts=site.posts | where: "lang", page.lang %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="home">
+          <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/nl.png"> Nederlandse versie</a>
+          <ul class="post-list">
+            {% for post in posts reversed %}
+              <a name="{{ post.title | slugify }}"></a>
+              {% assign content = post.content %}
+              {% include post.html %}
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="sidebar">
+          <div data-spy="affix" data-offset-top="258">
+            <div class="scrollspy">
+              <ul id="nav" class="nav">
+                {% for post in posts reversed %}
+                  <li><a href="#{{ post.title | slugify }}">{{ post.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {% include footer-en.html %}
+
+  </body>
+
+</html>

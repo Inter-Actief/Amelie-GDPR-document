@@ -1,0 +1,27 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <script type="text/javascript" src={{ "/assets/lightbox/js/jquery-1.11.0.min.js" | prepend: site.baseurl }}></script>
+  <script type="text/javascript" src={{ "/assets/lightbox/js/lightbox.min.js" | prepend: site.baseurl }}></script>
+  <script type="text/javascript" src={{ "/assets/bootstrap.js" | prepend: site.baseurl }}></script>
+  <script type="text/javascript" src={{ "/assets/main.js" | prepend: site.baseurl }}></script>
+
+  <link rel="stylesheet" type="text/css" href={{ "/assets/lightbox/css/lightbox.css" | prepend: site.baseurl }}>
+
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('h2,h3,h4,h5,h6').filter('[id]').each(function () {
+        $(this).html('<span class="anchor-container"><a href="#'+$(this).attr('id')+'">🔗</a></span>' + $(this).text());
+      });
+    });
+  </script>
+</head>
