@@ -6,7 +6,7 @@ lang: nl
 ### 3.1 Financiële belangen Inter-*Actief*
 
 #### 3.1.1 Doorgifte aan faculteit
-*Rechtgrond f, verkrijging van subsidie*  
+*Rechtsgrond f, verkrijging van subsidie*  
 Inter-*Actief* krijgt van de faculteit EWI een bijdrage per jaar per lid dat een van onze primaire studies volgt. Om te bepalen voor hoeveel leden Inter-*Actief* deze bijdrage ontvangt, wil de faculteit een lijst van leden met studentnummer ontvangen. Hiervoor worden jaarlijks de studentnummers van onze studentleden doorgegeven aan de faculteit.
 
 #### 3.1.2 Incasso’s sturen/uitvoeren

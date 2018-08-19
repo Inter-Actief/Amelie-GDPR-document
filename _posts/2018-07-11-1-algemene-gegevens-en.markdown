@@ -36,7 +36,7 @@ Every European citizen has the following rights:
 **Right to restriction of processing** (AVG Article 18)
 > Everyone has the right to restrict the processing activities in the situations listed below. 'Restriction of processing' means that the concerning personal details can be stored, but that permission from the person is necessary for all further processing of the details.
 > - Somebody doubts the correctness of their personal details; the restriction applies as long as Inter-*Actief* needs to verify the correctness of these personal details and (if necessary) correct them.
-> - Someones personal details are processed unlawfully, but this person would rather restrict the processing instead of deleting the details.
+> - Someone's personal details are processed unlawfully, but this person would rather restrict the processing instead of deleting the details.
 > - Someone has objected to the processing of their personal details; the restriction applies until the objection is either marked as successful or is rejected.
 
 **Right to transfer data** (AVG Article 20)
@@ -65,20 +65,20 @@ Within Inter-*Actief* only the board and people appointed by the board have acce
 ### 1.7. Explanation of Legal Grounds
 The next chapters will give a full overview of all data processing activities of Inter-*Actief*. A (short) description will be given for each processing activity, as well as one (or more) legal grounds (*a*, *b*, *c*, *d*, *e* of *f*) on which the data processing activity is grounded. These legal grounds originate from the AVG, Article 6[<sup>1</sup>](#references). Below follows a short overview of these legal grounds.
 
-**a.** the person concerned has given permission for the processing of their personal details for one or more specific purposes;
+**a.** the person concerned has given permission for the processing of their personal details for one or more specific purposes;  
 *It is allowed to process personal details if the person concerned has given permission for it. This legal ground is used by Inter-Actief to account for the processing if the other legal grounds do not apply.*
 
-**b.** the processing is necessary for the execution of an agreement in which the person concerned is a party, or to take measures on request of the person concerned before the agreement is completed;
+**b.** the processing is necessary for the execution of an agreement in which the person concerned is a party, or to take measures on request of the person concerned before the agreement is completed;  
 *This legal ground means that Inter-Actief is allowed to process personal details if this is necessary for an agreement. This can for example be the membership agreement or the direct debit agreement.*
 
-**c.** the processing is necessary to comply with a legal obligation of the processing party.
+**c.** the processing is necessary to comply with a legal obligation of the processing party.  
 *It is forbidden to break the law. Because of this Inter-Actief will process personal details if this is demanded by the law.*
 
-**d.** the processing is necessary to protect the vital interests of the person concerned or of another natural person;
+**d.** the processing is necessary to protect the vital interests of the person concerned or of another natural person;  
 *If the life of a member or other persons are at risk, it is allowed to process personal details for the benefit of help. This legal ground is not used by Inter-Actief.*
 
-**e.** –
+**e.** –  
 *(This legal ground is meant for government agencies, therefore it can never be used by Inter-Actief.)*
 
-**f.** the processing is necessary for the representation of legitimate interests of the processing party or of a third party, except for when the interests or the fundamental rights and freedoms of the person concerned that relate to the protection of personal data, outweigh those interests, especially when the person concerned is a child.
+**f.** the processing is necessary for the representation of legitimate interests of the processing party or of a third party, except for when the interests or the fundamental rights and freedoms of the person concerned that relate to the protection of personal data, outweigh those interests, especially when the person concerned is a child.  
 *This is the most complicated legal ground and also the legal ground that Inter-Actief uses the most to justify the processing. This legal ground means that Inter-Actief can process personal details if the interests of Inter-Actief outweigh the interest of the person concerned. If for example a member is not disadvantaged by the use of their student number, and Inter-Actief for example gets a large financial benefit from the use, then Inter-Actief is allowed to process the personal details. Inter-Actief has to stop the processing if the person concerned can demonstrate that the interest of the person outweigh those of Inter-Actief.*

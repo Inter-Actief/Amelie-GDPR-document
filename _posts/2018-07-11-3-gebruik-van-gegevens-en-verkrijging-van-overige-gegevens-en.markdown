@@ -1,13 +1,13 @@
 ---
-title:  "3. Usage of data and aquisition of other data"
+title:  "3. Usage of data and acquisition of other data"
 categories: algemeen
 lang: en
 ---
 ### 3.1 Financial interests Inter-*Actief*
 
 #### 3.1.1 Transfer to Faculty
-*Rechtgrond f, obtaining grants*  
-Every year Inter-*Actief* receieves a grant from the faculty EEMCS per member that follows one of our primary studies. To determine for how many members Inter-*Actief* will receive this grant, the faculty requests a list of our members and their student numbers. For this, the student numbers of our members are transferred to the faculty every year.
+*Legal Ground f, obtaining grants*  
+Every year Inter-*Actief* receives a grant from the faculty EEMCS per member that follows one of our primary studies. To determine for how many members Inter-*Actief* will receive this grant, the faculty requests a list of our members and their student numbers. For this, the student numbers of our members are transferred to the faculty every year.
 
 #### 3.1.2 Sending/Executing Debt Collections
 *Legal Ground b, execution debt collection agreement*  
@@ -34,7 +34,7 @@ Inter-*Actief* has outsourced the management of the e-mail aliases of, among oth
 If a member needs a building pass for the Zilverling, then Inter-*Actief* will request this with the security of the UT. For this request the e-mail address, name, student number and initials of the member are required. These details will be shared with the UT.
 
 #### 3.2.4 Publication of Name and Picture of (Former) Board Members
-*Legal Ground f, recognising (former) board members*  
+*Legal Ground f, recognizing (former) board members*  
 Over the years a lot of members have taken place in the board of Inter-*Actief*. Inter-*Actief* is grateful to her former boards and current board. For this reason, in combination with the preservation of the history of the association, the former boards are published on the website.
 
 
@@ -49,7 +49,7 @@ While enrolling and unenrolling for internal activities by members of Inter-*Act
 For some activities it is necessary to collect extra information to make sure the activity runs smoothly. This information is only used for the execution and settlement of that activity and are removed afterwards.
 
 #### 3.3.3 Transfer of Personal Details to Third Parties Due to the Nature of Activities
-*Legal Ground a and b, corresponding oblications after explicit consent of person*  
+*Legal Ground a and b, corresponding obligations after explicit consent of person*  
 Because of the nature of some activities, which may or may not be based in part on the processing of personal details by third parties, in some cases personal details are shared with external parties. The personal details are only shared after explicit permission from the person concerned at the time of enrollment for the activity. The shared information is limited to the parts that are found to be strictly necessary for the concluded agreement.
 
 #### 3.3.4 Publication of Pictures of Activities
@@ -62,19 +62,19 @@ The tax authorities requires associations to keep their financial administration
 
 #### 3.3.6 Transfer of RFID-codes and Student and/or Employee Numbers to Alexia
 *Legal Ground f, postpay on drinks*  
-If a member of Inter-*Actief* has signed a consumption authorizatoin with regard to collecting expenses at drinks, then these purchases need to be registered so that the incurred costs can be collected at a later date. For this purpose we use a self developed system called Alexia. To register the purchases in this system we share the RFID-codes and student or employee numbers of the member with this application. The details of the data processing of this system is handled further in the privacy document of this application.
+If a member of Inter-*Actief* has signed a consumption authorization with regard to collecting expenses at drinks, then these purchases need to be registered so that the incurred costs can be collected at a later date. For this purpose we use a self developed system called Alexia. To register the purchases in this system we share the RFID-codes and student or employee numbers of the member with this application. The details of the data processing of this system is handled further in the privacy document of this application.
 
 
 ### 3.4 The Goals of Inter-*Actief*
 
-#### 3.4.1 Aquisition and Storage of a Name When Filing Complaint
+#### 3.4.1 Acquisition and Storage of a Name When Filing Complaint
 *Legal Ground f, complaints database*  
 The members of Inter-*Actief* that have a complaint about the education can submit it via the website of Inter-*Actief*. To respond to the complaint later it is necessary that the name of the complainant is saved.
 
 
 ### 3.5 Meetings
 
-#### 3.5.1 Aquisition and Storage of Name in the Context of GMM and BM Authorizations and Absence
+#### 3.5.1 Acquisition and Storage of Name in the Context of GMM and BM Authorizations and Absence
 *Legal Ground c, keeping of authorizations*  
 If a member submits a notice of absence for a meeting within Inter-*Actief*, or authorizes someone else for that meeting, then Inter-*Actief* is legally required to save these absences and authorizations.
 
@@ -85,7 +85,7 @@ Minutes are kept of important meetings at Inter-*Actief*. At some meetings this 
 
 ### 3.6 Collection of Personal Details by Committees
 
-#### 3.6.1 Aquisition, Storage and Publication of Name and Picture of People who Write for Association Publications
+#### 3.6.1 Acquisition, Storage and Publication of Name and Picture of People who Write for Association Publications
 *Legal Ground a, explicit permission of authors of association publications*  
 The name and picture of people who write for the various association publications are registered and, in some cases, published. Inter-*Actief* does this to both acknowledge the authors of the written pieces publicly, as well as to create a nice graphic layout.
 
@@ -105,7 +105,7 @@ The names of the honorary members of Inter-*Actief* are publicly published on th
 The names of the members of merit of Inter-*Actief* are publicly published on the website in combination with a description why the member became a members of merit. Inter-*Actief* does this to remember her members of merit.
 
 ### 3.9 Other
-#### 3.9.1 Storage of personal details that were stored before this document came into effect (==TODO date==) in committe and/or association documents
+#### 3.9.1 Storage of personal details that were stored before this document came into effect (==TODO date==) in committee and/or association documents
 *Legal Ground f, existing archives*  
 (Far) before the AVG went into effect Inter-*Actief* stored all personal details that are used by committees. These personal details are (digitally) present on the committee drives of the corresponding committees. Because it is a huge amount of work to filter all of the drives, Inter-*Actief* leaves this data as-is. Examples of this are secretarial yearly reports, documents for study trips and old almanacs.
 
@@ -116,7 +116,7 @@ When the memberships are prolonged, members are sent a membership database check
 ### 3.10 Digital Facilities, Inter-*Actief* Website and Applications
 #### 3.10.1 Inter-*Actief* API
 *Legal Ground a, decentralized processing of personal details*  
-Inter-*Actief* offers an application programming interface. Using this interface, applications can gain access to the personal details of a person saved in the systems of the association. Permission for the processing of these personal details by the applicatoins is given explicitly by the person, by using the application. This permission can always be immediately revoked via the website of the association.
+Inter-*Actief* offers an application programming interface. Using this interface, applications can gain access to the personal details of a person saved in the systems of the association. Permission for the processing of these personal details by the applications is given explicitly by the person, by using the application. This permission can always be immediately revoked via the website of the association.
 
 #### 3.10.2 Inter-*Actief* Wiki
 *Legal Ground a, association documentation*  
@@ -124,7 +124,7 @@ Documentation about the processes within the association is saved on the wiki of
 
 #### 3.10.3 Processing Logs
 *Legal Ground f, error recovery and privacy assurance*  
-A log is kept for various events that occur in the systems of Inter-*Actief*. These logs might contain personal details. These logs are used to retreive previous versions of, among other things, pages, documents or other fields in the case of erroneous or incorrect data. The logs are also used as a documentation of the operations on, or processing of a certain object.
+A log is kept for various events that occur in the systems of Inter-*Actief*. These logs might contain personal details. These logs are used to retrieve previous versions of, among other things, pages, documents or other fields in the case of erroneous or incorrect data. The logs are also used as a documentation of the operations on, or processing of a certain object.
 
 #### 3.10.4 Error Logs
 *Legal Ground f, error recovery and fixing bugs in software*  
@@ -140,4 +140,4 @@ Inter-*Actief* makes regular backups of all files, databases, and other data sto
 
 #### 3.10.7 Committee Application(s)
 *Legal Ground a, explicit permission of person*  
-Some committees of Inter-*Actief* manage their own application or website that processes member details for the execution of their purpose. One example of this is the "SymposIA" application managed by the Symposium Committee, which helps the committee with the organization of the symposium. While doing this, personal details might be processed. A person gives these application(s) explicit permissoin to process their personal details when the person logs into the application(s) for the first time, or when the person uses the application(s) for the first time.
+Some committees of Inter-*Actief* manage their own application or website that processes member details for the execution of their purpose. One example of this is the "SymposIA" application managed by the Symposium Committee, which helps the committee with the organization of the symposium. While doing this, personal details might be processed. A person gives these application(s) explicit permission to process their personal details when the person logs into the application(s) for the first time, or when the person uses the application(s) for the first time.

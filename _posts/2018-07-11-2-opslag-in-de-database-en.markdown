@@ -32,7 +32,7 @@ In the case that the primary correspondence mail address is unavailable, Inter-*
 Phone numbers can be used within the association to quickly make contact between persons. Committee members have access to the telephone numbers of their fellow committee members, if these are registered. Furthermore, a phone number can be used for direct (personalized) communication via SMS. Registration of a telephone number is voluntary.
 
 #### 2.1.6 Date of Birth
-*Legal Ground c, compliance with minimun age requirements for online services*  
+*Legal Ground c, compliance with minimum age requirements for online services*  
 Every person that wishes to use the online services of Inter-*Actief* has to be at least sixteen years old, in accordance with the legal requirements. Inter-*Actief* uses the date of birth of a person to determine if they have reached the minimum required age.
 
 *Legal Ground f, compliance with alcohol regulations, birthday-related activities*  
@@ -45,7 +45,7 @@ As a tool for organizers and supporting members, a list with names and pictures 
 
 #### 2.1.8 Preferred Language
 *Legal Ground f, communication with registered people*  
-For communication with people, Inter-*Actief* makes use of various means, under which her website and e-mails. This communication is preferrably done in the preferred language of the person, to avoid having to send each communication in two languages. The preferred language is therefore saved by the association.
+For communication with people, Inter-*Actief* makes use of various means, under which her website and e-mails. This communication is preferably done in the preferred language of the person, to avoid having to send each communication in two languages. The preferred language is therefore saved by the association.
 
 #### 2.1.9 Internationality
 *Legal Ground a, voluntary registration internationality*  
@@ -53,11 +53,11 @@ Inter-*Actief* saves if a member has an international background, to anonymously
 
 #### 2.1.10 E-mail address parent(s)/guardian(s)
 *Legal Ground a, invitation to parents day*  
-The e-mail address of the parent(s)/guardian(s) is used to invite them to the yearly parents day that Inter-*Actief* organises for the first year students. After filling in the details the parent(s)/guardian(s) are contacted to ask for their permission to process these details further. The details are removed if the parents day has occurred or if the parent(s)/guardian(s) object to the storage of their personal details.
+The e-mail address of the parent(s)/guardian(s) is used to invite them to the yearly parents day that Inter-*Actief* organizes for the first year students. After filling in the details the parent(s)/guardian(s) are contacted to ask for their permission to process these details further. The details are removed if the parents day has occurred or if the parent(s)/guardian(s) object to the storage of their personal details.
 
 #### 2.1.11 Address, postal code, city and country of residence of parent(s)/guardian(s)
 *Legal Ground a, invitation to parents day*  
-The address details of the parent(s)/guardian(s) are used to invite them to the yearly parents day that Inter-*Actief* organises for the first year students. After filling in the details the parent(s)/guardian(s) are contacted to ask for their permission to process these details further. The details are removed if the parents day has occurred or if the parent(s)/guardian(s) object to the storage of their personal details.
+The address details of the parent(s)/guardian(s) are used to invite them to the yearly parents day that Inter-*Actief* organizes for the first year students. After filling in the details the parent(s)/guardian(s) are contacted to ask for their permission to process these details further. The details are removed if the parents day has occurred or if the parent(s)/guardian(s) object to the storage of their personal details.
 
 #### 2.1.12 Shell
 *Legal Ground a, personalization of computer systems*  
@@ -73,18 +73,18 @@ Membership details of a specific member are necessary to keep track of by Inter-
 
 #### 2.1.15 Notes
 *Legal Ground f, track special data*  
-In some cases it is convenient that extra comments are saved about members. For example the comment that someones e-mail address is not working or that a donor contribution is established.
+In some cases it is convenient that extra comments are saved about members. For example the comment that someone's e-mail address is not working or that a donor contribution is established.
 
 
 ### 2.2 Student Administration
 
 #### 2.2.1 Student number
 *Legal Ground f, minimal operation of the website of Inter-Actief*  
-On the website of Inter-*Actief* a student number can be used to log in to the website. Inter-*Actief* also uses the student number to aquire grants from the university (see [3.1.1 Transfer to Faculty](#311-transfer-to-faculty)) and to prolong the study long memberships.
+On the website of Inter-*Actief* a student number can be used to log in to the website. Inter-*Actief* also uses the student number to acquire grants from the university (see [3.1.1 Transfer to Faculty](#311-transfer-to-faculty)) and to prolong the study long memberships.
 
 #### 2.2.2 Study Periods
 *Legal Ground f, profiling based on studies*  
-Inter-*Actief* sends various mails to her members and uses profiling based on, among other things, your study/studies. For this, Inter-*Actief* saves your study peroids. A study period concerns one study, starting a master means starting a new study period.
+Inter-*Actief* sends various mails to her members and uses profiling based on, among other things, your study/studies. For this, Inter-*Actief* saves your study periods. A study period concerns one study, starting a master means starting a new study period.
 
 #### 2.2.3 Do-group
 *Legal Ground f, profiling based on do-group*  
@@ -104,8 +104,8 @@ On the website of Inter-*Actief* an employee number can be used to log in to the
 This account name is based on the full name of the active member and can be used to log in to the website and other services of Inter-*Actief*. Explicit permission for the establishment of the account name is granted in accordance with paragraph [3.2](#32-board-and-committee-work).
 
 #### 2.4.2 Committees and Functions
-*Legal Ground a, explicit permission when joining commitee*  
-Active members are a member of one or more committees within Inter-*Actief* in which functions are assigned to members. Seeing that a number of these functions correspond with a certain responsibility with regard to other members of the association, it is of importance that these are registered in the active members administration. The member grants permission for the processing of these details when they join a committee in accordance with paragraph [3.2](#32-board-and-committee-work). The commitees and functions of a member are also saved if the membership of the member ends. This is done to thank the members for their work in the committee, and to keep a record of the old members of ongoing or yearly committees.
+*Legal Ground a, explicit permission when joining committee*  
+Active members are a member of one or more committees within Inter-*Actief* in which functions are assigned to members. Seeing that a number of these functions correspond with a certain responsibility with regard to other members of the association, it is of importance that these are registered in the active members administration. The member grants permission for the processing of these details when they join a committee in accordance with paragraph [3.2](#32-board-and-committee-work). The committees and functions of a member are also saved if the membership of the member ends. This is done to thank the members for their work in the committee, and to keep a record of the old members of ongoing or yearly committees.
 
 ### 2.5 Payment Administration
 
@@ -115,11 +115,11 @@ When a member gives Inter-*Actief* permission to perform automatic debt collecti
 
 #### 2.5.2 Authorization(s) and Amendment(s)
 *Legal Ground b, minimal execution debt collection agreement*  
-Next to the physical signed authorization in the binder, Inter-*Actief* saves a reference to this authorization digitally. The starting date and possibly the end date of the authorization is also saved. Amendments (changes to the authorizations) are also saved. These are corrections to an authorization (like a change in bank account bumber or correction of a name). These are saved because amendments need to be sent to the bank with the next debt collection. Authorizations and amendments are saved for up to 14 months after the last use, or after the termination of the membership, for the self-interest of the association. This is because objections to debt collections can be made up to 14 months after the collection has taken place.
+Next to the physical signed authorization in the binder, Inter-*Actief* saves a reference to this authorization digitally. The starting date and possibly the end date of the authorization is also saved. Amendments (changes to the authorizations) are also saved. These are corrections to an authorization (like a change in bank account number or correction of a name). These are saved because amendments need to be sent to the bank with the next debt collection. Authorizations and amendments are saved for up to 14 months after the last use, or after the termination of the membership, for the self-interest of the association. This is because objections to debt collections can be made up to 14 months after the collection has taken place.
 
 #### 2.5.3 Debt Collection(s), Debt Collection Instruction(s) and Reversals
 *Legal Ground b, minimal execution debt collection agreement*  
-To execute debt collections and keep track of our financial administration, Inter-*Actief* saves all debt collections, debt collection instruction(s) (entries in a debt collection), and reversals of transactions, in our database. These details are necessary for the correct financial settlement of our debt collection agreement. The executed debt collections, their instructions and the reversals are saved in our database for 7 years after execution, because this is required by the Dutch law[<sup>2</sup>](#references). See also [3.3.5 Storage of Purchase Data of (Former) Members](#335-storage-of-purchase-details-of-former-members).
+To execute debt collections and keep track of our financial administration, Inter-*Actief* saves all debt collections, debt collection instruction(s) (entries in a debt collection), and reversals of transactions, in our database. These details are necessary for the correct financial settlement of our debt collection agreement. The executed debt collections, their instructions and the reversals are saved in our database for 7 years after execution, because this is required by the Dutch law[<sup>2</sup>](#references). See also [3.3.5 Storage of Purchase Data of (Former) Members](#335-storage-of-purchase-data-of-former-members).
 
 
 ### 2.6 Other preferences of members
