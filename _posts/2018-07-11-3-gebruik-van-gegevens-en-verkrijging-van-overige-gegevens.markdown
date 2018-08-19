@@ -27,7 +27,7 @@ Om de commissieleden te bedanken en hun herkenbaarheid te vergroten, worden de n
 
 #### 3.2.2 Doorgifte van mailadressen aan Studenten Net Twente
 *Rechtsgrond f, administratie mailaliassen*  
-Inter-*Actief* heeft het beheer van de mailaliassen van de commissies en (oud-)besturen uitbesteed aan Studenten Net Twente (SNT). Inter-*Actief* deelt de mailadressen van commissieleden, (oud-)bestuursleden en andere incidentele gevallen met Studenten Net Twente.
+Inter-*Actief* heeft het beheer van de mailaliassen van onder andere commissies en (oud-)besturen uitbesteed aan Studenten Net Twente (SNT). Inter-*Actief* deelt de mailadressen van commissieleden, (oud-)bestuursleden en andere incidentele gevallen met Studenten Net Twente.
 
 #### 3.2.3 Doorgifte gegevens ten behoeve van gebouwpassen Zilverling
 *Rechtsgrond a, gebouwpas aanvragen*  
@@ -35,7 +35,7 @@ Mocht een lid een gebouwpas nodig hebben voor de Zilverling, dan vraagt Inter-*A
 
 #### 3.2.4 Publicatie van naam en foto van (oud-)bestuurders
 *Rechtsgrond f, herkenbaarheid (oud-)bestuurders*  
-Door de jaren heen hebben vele mensen plaats genomen in het bestuur der Inter-*Actief*. Inter-*Actief* is haar oud-besturen en huidige bestuur dankbaar. Het is daarom, in combinatie met het behoud van de geschiedenis van de verening, dat de oud-besturen gepubliceerd worden op de website.
+Door de jaren heen hebben vele mensen plaats genomen in het bestuur der Inter-*Actief*. Inter-*Actief* is haar oud-besturen en huidige bestuur dankbaar. Het is daarom, in combinatie met het behoud van de geschiedenis van de vereniging, dat de oud-besturen gepubliceerd worden op de website.
 
 
 ### 3.3 Verwerking aankopen en activiteiten
@@ -54,8 +54,7 @@ Vanwege de aard van sommige activiteiten, die al dan niet gedeeltelijk berusten 
 
 #### 3.3.4 Publicatie van foto’s van activiteiten
 *Rechtsgrond f, interne en externe promotie van activiteiten*  
-Bij bijna alle activiteiten van Inter-*Actief* worden foto’s gemaakt. De gefotografeerde personen worden niet expliciet bij naam genoemd. De naam van de fotograaf wordt bij de foto's genoemd. De foto’s worden gefilterd door Inter-*Actief* en publiek op de website gezet. Foto’s die minder charmant zijn, alcoholische drank bevatten of iets anders laten zien dat Inter-*Actief* niet wil tonen aan externen worden afgeschermd gepubliceerd op de website. Op verzoek van een persoon met een redelijk belang wordt een foto van de web
-site verwijderd.
+Bij bijna alle activiteiten van Inter-*Actief* worden foto’s gemaakt. De gefotografeerde personen worden niet expliciet bij naam genoemd. De naam van de fotograaf wordt bij de foto's genoemd. De foto’s worden gefilterd door Inter-*Actief* en publiek op de website gezet. Foto’s die iets laten zien dat Inter-*Actief* niet wil tonen aan externen worden afgeschermd gepubliceerd op de website. Op verzoek van een persoon met een redelijk belang wordt een foto van de website verwijderd.
 
 #### 3.3.5 Opslag van aankoopgegevens van (voormalig) leden
 *Rechtsgrond c, bewaarplicht financiele administratie*  

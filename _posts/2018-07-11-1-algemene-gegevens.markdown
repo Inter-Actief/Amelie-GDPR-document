@@ -60,7 +60,7 @@ Bij Inter-*Actief* wordt soms geprofileerd bij het versturen van mails. Zo wordt
 Inter-*Actief* gebruikt verschillende statistieken om het beleid te sturen waar nodig. Hiervoor kunnen persoonsgegevens worden gebruikt. In alle gevallen worden deze gegevens geanonimiseerd weergegeven om de privacy van elk persoon te waarborgen.
 
 ### 1.6. Toegang tot gegevens
-Binnen Inter-*Actief* hebben naast het bestuur nog twee organen toegang tot alle persoonsgegevens. Deze twee organen zijn de WWW-commissie (WWW) en de Systeembeheercommissie (SysCom). De leden van deze commissies die toegang hebben tot de persoonsgegevens hebben hiervoor een geheimhoudingsovereenkomst getekend met Inter-*Actief*.
+Binnen Inter-*Actief* hebben naast het bestuur uitsluitend door het bestuur aangewezen personen toegang tot persoonsgegevens. De personen die toegang hebben tot de persoonsgegevens hebben hiervoor een geheimhoudingsovereenkomst getekend met Inter-*Actief*.
 
 ### 1.7. Toelichting Rechtsgronden
 In de volgende hoofdstukken wordt een volledig overzicht gegeven van alle verwerkingsactiviteiten van Inter-*Actief*. Naast de verwerkingsactiviteit en een (korte) toelichting daarbij, wordt er ook telkens een (of meerdere) rechtsgrond(en) genoemd (*a*, *b*, *c*, *d*, *e* of *f*) waarop de verwerkingsactiviteit is gegrond. Deze rechtsgronden komen uit de AVG, Artikel 6[<sup>1</sup>](#referenties). Hieronder volgt een kort overzicht van deze rechtsgronden.

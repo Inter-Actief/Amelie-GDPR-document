@@ -15,7 +15,7 @@ Binnen Inter-*Actief* wordt het geslacht van een lid opgeslagen met als doel om 
 
 #### 2.1.3 E-mailadres
 *Rechtsgrond b, minimale uitvoering lidmaatschapsovereenkomst*  
-Het primaire communicatiemiddel dat Inter-*Actief* gebruikt richting haar leden is de mail. Uitnodigingen voor Algemene Leden Vergaderingen en lidmaatschapsinformatie wordt over dit kanaal gedeeld.
+Het primaire communicatiemiddel dat Inter-*Actief* gebruikt richting haar leden is de mail. Uitnodigingen voor Algemene Ledenvergaderingen en lidmaatschapsinformatie worden over dit kanaal gedeeld.
 
 *Rechtsgrond a, informatiemailing en nevenactiviteiten*  
 Daarnaast zal dit communicatiemiddel gebruikt worden voor communicatie naar leden waar zij expliciet toestemming voor hebben gegeven.
@@ -25,7 +25,7 @@ Als laatste zal dit communicatiemiddel worden gebruikt voor communicatie waarbij
 
 #### 2.1.4 Adres, postcode, woonplaats en land
 *Rechtsgrond b, minimale uitvoering lidmaatschapsovereenkomst*  
-Mocht het primaire corespondentiemailadres niet beschikbaar zijn, dan gebruikt Inter-*Actief* het postadres van haar leden. Het postadres wordt daarom opgeslagen door Inter-*Actief*.
+Mocht het primaire correspondentiemailadres niet beschikbaar zijn, dan gebruikt Inter-*Actief* het postadres van haar leden. Het postadres wordt daarom opgeslagen door Inter-*Actief*.
 
 #### 2.1.5 Telefoonnummer
 *Rechtsgrond a, vrijwillige registratie contactgegevens*  
@@ -53,11 +53,11 @@ Binnen Inter-*Actief* wordt opgeslagen of een lid een internationale achtergrond
 
 #### 2.1.10 E-mailadres ouders/verzorgers
 *Rechtsgrond a, uitnodiging voor ouderdag*  
-Het e-mailadres van de ouder(s)/verzorger(s) worden gebruikt om ze uit te nodigen voor de jaarlijkse ouderdag die Inter-*Actief* organiseert voor eerstejaars studenten. Na het opgeven van de gegevens worden de ouder(s)/verzorger(s) gecontacteerd om toestemming te vragen om de gegevens verder te verwerken. De gegevens worden verwijderd als de ouderdag heeft plaatsgevonden of als de ouder(s)/verzorger(s) bezwaar hebben tegen de opslag van hun gegevens.
+Het e-mailadres van de ouder(s)/verzorger(s) wordt gebruikt om ze uit te nodigen voor de jaarlijkse ouderdag die Inter-*Actief* organiseert voor eerstejaars studenten. Na het opgeven van de gegevens worden de ouder(s)/verzorger(s) gecontacteerd om toestemming te vragen om de gegevens verder te verwerken. De gegevens worden verwijderd als de ouderdag heeft plaatsgevonden of als de ouder(s)/verzorger(s) bezwaar hebben aangetekend tegen de opslag van hun gegevens.
 
 #### 2.1.11 Adres, postcode, woonplaats en land van ouder(s)/verzorger(s)
 *Rechtsgrond a, uitnodiging voor ouderdag*  
-De adresgegevens van de ouder(s)/verzorger(s) worden gebruikt om ze uit te nodigen voor de jaarlijkse ouderdag die Inter-*Actief* organiseert voor eerstejaars studenten. Na het opgeven van de gegevens worden de ouder(s)/verzorger(s) gecontacteerd om toestemming te vragen om de gegevens verder te verwerken. De gegevens worden verwijderd als de ouderdag heeft plaatsgevonden of als de ouder(s)/verzorger(s) bezwaar hebben tegen de opslag van hun gegevens. Daarnaast worden deze adresgegevens slechts gebruikt indien er geen contact kan worden gelegd via het geregistreerde e-mailadres.
+De adresgegevens van de ouder(s)/verzorger(s) worden gebruikt om ze uit te nodigen voor de jaarlijkse ouderdag die Inter-*Actief* organiseert voor eerstejaars studenten. Na het opgeven van de gegevens worden de ouder(s)/verzorger(s) gecontacteerd om toestemming te vragen om de gegevens verder te verwerken. De gegevens worden verwijderd als de ouderdag heeft plaatsgevonden of als de ouder(s)/verzorger(s) bezwaar hebben aangetekend tegen de opslag van hun gegevens.
 
 #### 2.1.12 Shell
 *Rechtsgrond a, personalisering van computersystemen*  
@@ -105,8 +105,7 @@ Deze accountnaam is gebaseerd op de volledige naam van het actieve lid en kan wo
 
 #### 2.4.2 Commissies en functies
 *Rechtsgrond a, expliciete toestemming lid bij toetreding commissie*  
-Actieve leden kunnen lid worden van commissies binnen Inter-*Actief* waarbij functies aan leden kunnen worden toegekend. Aangezien een aantal van deze functies een bepaalde verantwoordelijkheid met zich dragen tegenover de andere leden van de vereniging, is het van belang dat deze worden bijgehouden in de actieve-ledenadministratie. Het lid geeft toestemming voor de verwerking van deze gegevens bij toetreding van een commissie conform paragraaf [3.2](#32-bestuurs--en-commissiewerk). De commissies en functies van een lid worden ook bewaard als het lidmaatschap van het lid eindigt. Dit wordt gedaan om de leden te bedanken voor hun werk in de commissie, en om een register bij te houden van de oud-leden van lopende of jaarlijkse commissies.
-
+Actieve leden zijn lid van een of meerdere commissies binnen Inter-*Actief* waarbij functies aan leden kunnen worden toegekend. Aangezien een aantal van deze functies een bepaalde verantwoordelijkheid met zich dragen tegenover de andere leden van de vereniging, is het van belang dat deze worden bijgehouden in de actieve-ledenadministratie. Het lid geeft toestemming voor de verwerking van deze gegevens bij toetreding van een commissie conform paragraaf [3.2](#32-bestuurs--en-commissiewerk). De commissies en functies van een lid worden ook bewaard als het lidmaatschap van het lid eindigt. Dit wordt gedaan om de leden te bedanken voor hun werk in de commissie, en om een register bij te houden van de oud-leden van lopende of jaarlijkse commissies.
 
 ### 2.5 Betalingsadministratie
 
@@ -135,7 +134,7 @@ Een persoon kan aangeven of deze bedrijfsmailingen wilt ontvangen. Enkel wanneer
 
 #### 2.6.3 Mastermail ontvangen
 *Rechtsgrond a, ontvangen van de mastermail*  
-Een persoon kan aangeven of deze mastermails wil ontvangen. Enkel wanneer een persoon expliciet aangeeft mastermail te willen ontvangen zal dit het geval zijn.
+Een persoon kan aangeven of deze mastermails wilt ontvangen. Enkel wanneer een persoon expliciet aangeeft mastermail te willen ontvangen zal dit het geval zijn.
 
 #### 2.6.4 Fotogebruik in het jaarboek en op de website
 *Rechtsgrond a, gebruik van de pasfoto*  
@@ -143,7 +142,7 @@ Een persoon kan aangeven of de pasfoto gebruikt mag worden. Enkel wanneer een pe
 
 #### 2.6.5 Notificaties (SMS/push) ontvangen
 *Rechtsgrond a, ontvangen van notificaties*  
-Een persoon kan aangeven of deze notificaties wil ontvangen. Enkel wanneer een persoon expliciet aangeeft notificaties te willen ontvangen zal dit het geval zijn. SMS notificaties zullen enkel verstuurd worden naar personen waarvoor er toestemming is het telefoonnummer te verwerken, conform [*2.1.5 Telefoonnummer*](#215-telefoonnummer).
+Een persoon kan aangeven of deze notificaties wilt ontvangen. Enkel wanneer een persoon expliciet aangeeft notificaties te willen ontvangen zal dit het geval zijn. SMS notificaties zullen enkel verstuurd worden naar personen waarvoor er toestemming is het telefoonnummer te verwerken, conform [*2.1.5 Telefoonnummer*](#215-telefoonnummer).
 
 #### 2.6.6 Het verenigingsblad ontvangen
 *Rechtsgrond a, ontvangen van het verenigingsblad*  
