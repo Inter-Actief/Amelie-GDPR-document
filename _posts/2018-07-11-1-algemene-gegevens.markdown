@@ -35,7 +35,7 @@ Elk Europees staatsburger heeft de volgende rechten:
 
 **Recht op beperking van de verwerking** (AVG Artikel 18)
 > Iedereen heeft het recht op beperking van de verwerking in de hieronder volgende gevallen. 'Beperking van de verwerking' wil zeggen dat de betreffende persoonsgegevens wel opgeslagen mogen worden, maar dat voor elke verdere verwerking in principe toestemming van de betreffende persoon nodig is.
-> - Iemand twijfelt aan de juistheid van zijn/haar persoonsgegevens; de beperking geld zolang Inter-*Actief* nodig heeft om de juistheid van deze persoonsgegevens te controleren en (indien nodig) te corrigeren.
+> - Iemand twijfelt aan de juistheid van zijn/haar persoonsgegevens; de beperking geldt zolang Inter-*Actief* nodig heeft om de juistheid van deze persoonsgegevens te controleren en (indien nodig) te corrigeren.
 > - Iemands persoonsgegevens worden onrechtmatig verwerkt, maar deze persoon heeft liever dat de verwerking beperkt wordt dan dat de gegevens gewist worden.
 > - Iemand heeft bezwaar gemaakt tegen de verwerking van zijn/haar persoonsgegevens; de beperking geldt totdat het bezwaar ofwel als succesvol is aangemerkt ofwel is afgewezen.
 
@@ -44,7 +44,7 @@ Elk Europees staatsburger heeft de volgende rechten:
 > NB: Het recht op vergetelheid weegt zwaarder dan het recht op overdraagbaarheid van gegevens.
 
 **Recht van bezwaar** (AVG Artikel 21)
-> Iedereen heeft het recht om, met argimenten die specifiek voor hem/haar gelden, bezwaar te maken tegen verwerkingen op basis van rechtsgrond *f* (zie verderop). Indien dit gebeurt moet Inter-*Actief* ofwel stoppen met de betreffende verwerking voor deze persoon ofwel argumenten aandragen die zwaarder wegen dan de argumenten van deze persoon.
+> Iedereen heeft het recht om, met argumenten die specifiek voor hem/haar gelden, bezwaar te maken tegen verwerkingen op basis van rechtsgrond *f* (zie verderop). Indien dit gebeurt moet Inter-*Actief* ofwel stoppen met de betreffende verwerking voor deze persoon ofwel argumenten aandragen die zwaarder wegen dan de argumenten van deze persoon.
 > Verder heeft iedereen het recht om bezwaar in te dienen tegen de verwerking van zijn/haar persoonsgegevens voor direct marketing. Indien dit gebeurt mag Inter-*Actief* deze gegevens niet meer verwerken voor direct marketing.
 
 **Recht op intrekking van toestemming** (AVG Artikel 7 lid 3)

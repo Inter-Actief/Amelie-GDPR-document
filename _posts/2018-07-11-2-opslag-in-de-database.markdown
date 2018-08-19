@@ -33,11 +33,11 @@ Binnen de vereniging kunnen telefoonnummers worden gebruikt om snel contact te l
 
 #### 2.1.6 Geboortedatum
 *Rechtsgrond c, naleving minimumleeftijd online diensten*  
-Elk persoon die wenst de online diensten van Inter-*Actief* te gebruiken moet ten minste de leeftijd van zestien hebben bereikt, conform de wettelijke voorschriften. Inter-*Actief* gebruikt de geboortedatum van een persoon om te bepalen of deze de minimumleeftijd mits heeft bereikt.
+Elk persoon die wenst de online diensten van Inter-*Actief* te gebruiken moet ten minste de leeftijd van zestien hebben bereikt, conform de wettelijke voorschriften. Inter-*Actief* gebruikt de geboortedatum van een persoon om te bepalen of deze de minimumleeftijd reeds heeft bereikt.
 
 *Rechtsgrond f, naleving alcoholregelement, verjaardagsgerelateerde activiteiten*  
 Bij activiteiten van Inter-*Actief* waar Inter-*Actief* alcoholische consumpties verkoopt aan haar leden is het verboden om deze dranken te verkopen aan leden die nog geen 18 jaar oud zijn. Om goed duidelijk te hebben welk lid nog geen 18 jaar oud is houdt Inter-*Actief* een lijst bij waar de verjaardagen van deze leden op staan.
-Ook verstuurt Inter-*Actief* een verjaardagsbericht naar haar leden indien hier toestemming voor gegeven is. Tevens wordt de verjaardag (zonder geboortejaar) van een lid gepubliceerd op de website van Inter-*Actief* voor ingelogde gebruikers.
+Ook verstuurt Inter-*Actief* een verjaardagsbericht naar haar leden indien hier toestemming voor gegeven is. Tevens wordt de verjaardag van een lid gepubliceerd op de website van Inter-*Actief* voor ingelogde gebruikers.
 
 #### 2.1.7 Pasfoto
 *Rechtsgrond a, 18+\-lijst, proﬁelfoto’s op website en publicatie in jaarboeken*  
@@ -130,11 +130,11 @@ Een persoon kan aangeven of deze weekmails wil ontvangen. Enkel wanneer een pers
 
 #### 2.6.2 Bedrijfsmailingen ontvangen
 *Rechtsgrond a, ontvangen van bedrijfsmailingen*  
-Een persoon kan aangeven of deze bedrijfsmailingen wilt ontvangen. Enkel wanneer een persoon expliciet aangeeft bedrijfsmailingen te willen ontvangen zal dit het geval zijn.
+Een persoon kan aangeven of deze bedrijfsmailingen wil ontvangen. Enkel wanneer een persoon expliciet aangeeft bedrijfsmailingen te willen ontvangen zal dit het geval zijn.
 
 #### 2.6.3 Mastermail ontvangen
 *Rechtsgrond a, ontvangen van de mastermail*  
-Een persoon kan aangeven of deze mastermails wilt ontvangen. Enkel wanneer een persoon expliciet aangeeft mastermail te willen ontvangen zal dit het geval zijn.
+Een persoon kan aangeven of deze mastermails wil ontvangen. Enkel wanneer een persoon expliciet aangeeft mastermail te willen ontvangen zal dit het geval zijn.
 
 #### 2.6.4 Fotogebruik in het jaarboek en op de website
 *Rechtsgrond a, gebruik van de pasfoto*  
@@ -142,8 +142,8 @@ Een persoon kan aangeven of de pasfoto gebruikt mag worden. Enkel wanneer een pe
 
 #### 2.6.5 Notificaties (SMS/push) ontvangen
 *Rechtsgrond a, ontvangen van notificaties*  
-Een persoon kan aangeven of deze notificaties wilt ontvangen. Enkel wanneer een persoon expliciet aangeeft notificaties te willen ontvangen zal dit het geval zijn. SMS notificaties zullen enkel verstuurd worden naar personen waarvoor er toestemming is het telefoonnummer te verwerken, conform [*2.1.5 Telefoonnummer*](#215-telefoonnummer).
+Een persoon kan aangeven of deze notificaties wil ontvangen. Enkel wanneer een persoon expliciet aangeeft notificaties te willen ontvangen zal dit het geval zijn. SMS notificaties zullen enkel verstuurd worden naar personen waarvoor er toestemming is het telefoonnummer te verwerken, conform [*2.1.5 Telefoonnummer*](#215-telefoonnummer).
 
 #### 2.6.6 Het verenigingsblad ontvangen
 *Rechtsgrond a, ontvangen van het verenigingsblad*  
-Een persoon kan aangeven of deze het verenigingsblad wilt ontvangen. Enkel wanneer een persoon expliciet aangeeft het verenigingsblad te willen ontvangen zal dit het geval zijn.
+Een persoon kan aangeven of deze het verenigingsblad wil ontvangen. Enkel wanneer een persoon expliciet aangeeft het verenigingsblad te willen ontvangen zal dit het geval zijn.
