@@ -6,7 +6,7 @@ lang: nl
 ### 3.1 Financiële belangen Inter-*Actief*
 
 #### 3.1.1 Doorgifte aan faculteit
-*Rechtgrond f, verkrijging van subsidie*  
+*Rechtsgrond f, verkrijging van subsidie*  
 Inter-*Actief* krijgt van de faculteit EWI een bijdrage per jaar per lid dat een van onze primaire studies volgt. Om te bepalen voor hoeveel leden Inter-*Actief* deze bijdrage ontvangt, wil de faculteit een lijst van leden met studentnummer ontvangen. Hiervoor worden jaarlijks de studentnummers van onze studentleden doorgegeven aan de faculteit.
 
 #### 3.1.2 Incasso’s sturen/uitvoeren
@@ -40,11 +40,11 @@ Door de jaren heen hebben vele mensen plaats genomen in het bestuur der Inter-*A
 
 ### 3.3 Verwerking aankopen en activiteiten
 
-#### 3.3.1 Bevestigingsmail inschrijven en uitschrijven interne activiteiten
+#### 3.3.1 Bevestigingsmails inschrijven en uitschrijven interne activiteiten
 *Rechtsgrond f, informeren leden ten behoeven van activiteiten*  
 Bij in- en uitschrijving van interne activiteiten door leden van Inter-*Actief* krijgt de desbetreffende persoon een bevestiging per mail om later een eventuele in- en uitschrijving aan te kunnen tonen bij organisatoren. Hiervoor gebruikt Inter-*Actief* het mailadres van het lid.
 
-#### 3.3.2 Het invullen van inschrijfformulieren voor activiteiten
+#### 3.3.2 Inschrijfformulieren voor activiteiten
 *Rechtsgrond a, uitvoering activiteiten*  
 Bij sommige activiteiten is extra informatie nodig om de activiteit goed te laten verlopen. Deze gegevens worden slechts gebruikt voor de uitvoering en de afhandeling van deze activiteit en worden daarna verwijderd.
 
@@ -57,8 +57,8 @@ Vanwege de aard van sommige activiteiten, die al dan niet gedeeltelijk berusten 
 Bij bijna alle activiteiten van Inter-*Actief* worden foto’s gemaakt. De gefotografeerde personen worden niet expliciet bij naam genoemd. De naam van de fotograaf wordt bij de foto's genoemd. De foto’s worden gefilterd door Inter-*Actief* en publiek op de website gezet. Foto’s die iets laten zien dat Inter-*Actief* niet wil tonen aan externen worden afgeschermd gepubliceerd op de website. Op verzoek van een persoon met een redelijk belang wordt een foto van de website verwijderd.
 
 #### 3.3.5 Opslag van aankoopgegevens van (voormalig) leden
-*Rechtsgrond c, bewaarplicht financiele administratie*  
-De belastingdienst verplicht verenigingen om hun financiele administratie 7 jaar lang te bewaren volgens de fiscale bewaarplicht[<sup>2</sup>](#referenties). Hieronder vallen bij Inter-*Actief* onder andere de lidmaatschapskosten, aankopen in de streeplijst, aankopen op borrels, inschrijfkosten voor activiteiten en uitgevoerde incasso's.
+*Rechtsgrond c, bewaarplicht financiële administratie*  
+De belastingdienst verplicht verenigingen om hun financiële administratie 7 jaar lang te bewaren volgens de fiscale bewaarplicht[<sup>2</sup>](#referenties). Hieronder vallen bij Inter-*Actief* onder andere de lidmaatschapskosten, aankopen in de streeplijst, aankopen op borrels, inschrijfkosten voor activiteiten en uitgevoerde incasso's.
 
 #### 3.3.6 Doorgifte RFID-codes en student- en/of medewerkersnummers aan Alexia
 *Rechtsgrond f, achteraf betalen borrels*  
@@ -80,7 +80,7 @@ Als een lid zich voor een vergadering binnen Inter-*Actief* afmeldt danwel ieman
 
 #### 3.5.2 Opslag en publicatie van naamgegevens in ALV-, BV- en commissienotulen
 *Rechtsgrond c en f, houden van notulen*  
-Van belangrijke vergaderingen bij Inter-*Actief* worden notulen gehouden. Bij sommige vergaderingen is dit wettelijk verplicht (ALV en BV), bij andere vergaderingen is dit wenselijk. Deze notulen worden verspreid onder alle of een deel van de leden van Inter-*Actief*. Bij aanwezigheid bij een van deze vergaderingen zal de naam worden gepubliceerd in de notulen.
+Van belangrijke vergaderingen bij Inter-*Actief* worden notulen gehouden. Bij sommige vergaderingen is dit wettelijk verplicht (ALV en BV), bij andere vergaderingen is dit wenselijk. Deze notulen worden verspreid onder alle of een deel van de leden van Inter-*Actief*. De namen van de aanwezigen bij een van deze vergaderingen zullen worden gepubliceerd in deze notulen.
 
 
 ### 3.6 Vergaring van persoonsgegevens door commissies
