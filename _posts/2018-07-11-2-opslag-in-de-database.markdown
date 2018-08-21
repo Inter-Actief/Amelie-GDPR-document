@@ -65,7 +65,7 @@ Het is voor leden mogelijk om (al dan niet op afstand) in te loggen op een of me
 
 #### 2.1.13 Webmaster
 *Rechtsgrond a, verantwoordelijkheid voor commissiewebsite(s)*  
-Sommige commissies van Inter-*Actief* hebben een eigen website die beheert wordt door de commissie. Deze voorkeur wordt gebruikt om specifieke personen aan te duiden als de *webmaster* van een commissiewebsite, zodat de vereniging weet wie er verantwoordelijk is voor deze websites.
+Sommige commissies van Inter-*Actief* hebben een eigen website die beheerd wordt door de commissie. Deze voorkeur wordt gebruikt om specifieke personen aan te duiden als de *webmaster* van een commissiewebsite, zodat de vereniging weet wie er verantwoordelijk is voor deze websites.
 
 #### 2.1.14 Lidmaatschappen
 *Rechtsgrond b, minimale uitvoering lidmaatschapsovereenkomst*  

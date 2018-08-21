@@ -120,7 +120,7 @@ Inter-*Actief* stelt een programmeerinterface beschikbaar. Via deze interface ku
 
 #### 3.10.2 Inter-*Actief* Wiki
 *Rechtsgrond a, verenigingsdocumentatie*  
-Op de wiki van Inter-*Actief* word documentatie opgeslagen over processen binnen de vereniging. In de wijzigingsgeschiedenis van elke pagina worden de namen van diens auteurs opgeslagen. Hiervoor wordt expliciet toestemming gegeven bij het opslaan van een (wijziging aan een) pagina.
+Op de wiki van Inter-*Actief* wordt documentatie opgeslagen over processen binnen de vereniging. In de wijzigingsgeschiedenis van elke pagina worden de namen van diens auteurs opgeslagen. Hiervoor wordt expliciet toestemming gegeven bij het opslaan van een (wijziging aan een) pagina.
 
 #### 3.10.3 Verwerkingslogboeken
 *Rechtsgrond f, foutherstelling en privacywaarborging*  

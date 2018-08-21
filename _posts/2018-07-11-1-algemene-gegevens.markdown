@@ -15,7 +15,7 @@ Elk Europees staatsburger heeft de volgende rechten:
 **Recht van inzage** (AVG[<sup>1</sup>](#referenties) Artikel 15)
 > Iedereen heeft het recht om zijn of haar persoonsgegevens die door Inter-*Actief* worden verwerkt, in te zien. Daarnaast heeft elke persoon van wie persoonsgegevens verwerkt worden door Inter-*Actief*, het recht om inzage te krijgen in de volgende informatie:
 > - de verwerkingsdoeleinden van de verwerkingen van zijn/haar persoonsgegevens;
-> - de categorieen van persoonsgegevens die bij elke verwerking betrokken zijn;
+> - de categorieën van persoonsgegevens die bij elke verwerking betrokken zijn;
 > - de personen en/of instanties aan wie de persoonsgegevens eventueel worden verstrekt;
 > - de opslagperiode van de persoonsgegevens;
 > - zijn/haar rechten met betrekking tot de verwerking van zijn/haar persoonsgegevens;
