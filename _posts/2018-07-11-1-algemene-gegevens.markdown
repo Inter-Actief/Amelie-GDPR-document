@@ -12,7 +12,7 @@ Inter-*Actief* bewaart de gegevens van het lidmaatschap totdat het  lidmaatschap
 ### 1.3. Rechten betrokkenen
 Elk Europees staatsburger heeft de volgende rechten:
 
-**Recht van inzage** (AVG[<sup>1</sup>](#referenties) Artikel 15)
+**Recht van inzage** (GDPR[<sup>1</sup>](#referenties) Artikel 15)
 > Iedereen heeft het recht om zijn of haar persoonsgegevens die door Inter-*Actief* worden verwerkt, in te zien. Daarnaast heeft elke persoon van wie persoonsgegevens verwerkt worden door Inter-*Actief*, het recht om inzage te krijgen in de volgende informatie:
 > - de verwerkingsdoeleinden van de verwerkingen van zijn/haar persoonsgegevens;
 > - de categorieën van persoonsgegevens die bij elke verwerking betrokken zijn;
@@ -22,10 +22,10 @@ Elk Europees staatsburger heeft de volgende rechten:
 > - alle beschikbare informatie over instanties waar Inter-*Actief* persoonsgegevens van hem/haar verzamelt die niet door hem/haar zelf verstrekt zijn;
 > - (indien van toepassing) nuttige informatie over de onderliggende logica van de door Inter-*Actief* toegepaste profilering, en het belang en de gevolgen van die profilering voor het lid.
 
-**Recht op rectificatie** (AVG Artikel 16)
+**Recht op rectificatie** (GDPR Artikel 16)
 > Indien Inter-*Actief* beschikt over onjuiste of onvolledige persoonsgegevens van iemand, dan heeft deze persoon het recht dat deze gegevens zo snel mogelijk door Inter-*Actief* gecorrigeerd en/of gecompleteerd worden.
 
-**Recht op vergetelheid** (AVG Artikel 17)
+**Recht op vergetelheid** (GDPR Artikel 17)
 > Iedereen heeft het recht om Inter-*Actief* te verzoeken alle persoonsgegevens die op hem/haar betrekking hebben te wissen. Inter-*Actief* is verplicht om binnen redelijke termijn aan dit verzoek te voldoen. Daarnaast is Inter-*Actief* in de onderstaande situaties verplicht om persoonsgegevens binnen een redelijke termijn te wissen:
 > - De persoonsgegevens zijn niet meer nodig voor de doeleinden waarvoor ze verzameld en/of opgeslagen zijn.
 > - Iemand trekt zijn/haar gegeven toestemming voor de verwerking van persoonsgegevens in. (Het wissen is alleen verplicht indien de verwerking van de persoonsgegevens alleen gebaseerd is op deze toestemming.)
@@ -33,24 +33,24 @@ Elk Europees staatsburger heeft de volgende rechten:
 > - De persoonsgegevens zijn onrechtmatig verwerkt.
 > - Er is een wet die Inter-*Actief* verplicht om de persoonsgegevens te wissen.
 
-**Recht op beperking van de verwerking** (AVG Artikel 18)
+**Recht op beperking van de verwerking** (GDPR Artikel 18)
 > Iedereen heeft het recht op beperking van de verwerking in de hieronder volgende gevallen. 'Beperking van de verwerking' wil zeggen dat de betreffende persoonsgegevens wel opgeslagen mogen worden, maar dat voor elke verdere verwerking in principe toestemming van de betreffende persoon nodig is.
 > - Iemand twijfelt aan de juistheid van zijn/haar persoonsgegevens; de beperking geldt zolang Inter-*Actief* nodig heeft om de juistheid van deze persoonsgegevens te controleren en (indien nodig) te corrigeren.
 > - Iemands persoonsgegevens worden onrechtmatig verwerkt, maar deze persoon heeft liever dat de verwerking beperkt wordt dan dat de gegevens gewist worden.
 > - Iemand heeft bezwaar gemaakt tegen de verwerking van zijn/haar persoonsgegevens; de beperking geldt totdat het bezwaar ofwel als succesvol is aangemerkt ofwel is afgewezen.
 
-**Recht op overdraagbaarheid van gegevens** (AVG Artikel 20)
+**Recht op overdraagbaarheid van gegevens** (GDPR Artikel 20)
 > Iedereen heeft het recht om de persoonsgegevens die hij/zij in het kader van een verwerking op basis van rechtsgrond *a* of *b* (zie verderop) heeft verstrekt aan Inter-*Actief*, op een overzichtelijke manier te ontvangen van Inter-*Actief*. Dit geldt alleen indien de verwerking (deels) geautomatiseerd is. Hij/zij heeft het recht deze persoonsgegevens (zonder daarbij door Inter-*Actief* gehinderd te worden) over te dragen aan anderen. Indien dit technisch mogelijk is, moet Inter-*Actief* deze gegevens op zijn/haar verzoek rechtstreeks overdragen aan de ander.
 > NB: Het recht op vergetelheid weegt zwaarder dan het recht op overdraagbaarheid van gegevens.
 
-**Recht van bezwaar** (AVG Artikel 21)
+**Recht van bezwaar** (GDPR Artikel 21)
 > Iedereen heeft het recht om, met argumenten die specifiek voor hem/haar gelden, bezwaar te maken tegen verwerkingen op basis van rechtsgrond *f* (zie verderop). Indien dit gebeurt moet Inter-*Actief* ofwel stoppen met de betreffende verwerking voor deze persoon ofwel argumenten aandragen die zwaarder wegen dan de argumenten van deze persoon.
 > Verder heeft iedereen het recht om bezwaar in te dienen tegen de verwerking van zijn/haar persoonsgegevens voor direct marketing. Indien dit gebeurt mag Inter-*Actief* deze gegevens niet meer verwerken voor direct marketing.
 
-**Recht op intrekking van toestemming** (AVG Artikel 7 lid 3)
+**Recht op intrekking van toestemming** (GDPR Artikel 7 lid 3)
 > Indien iemand toestemming heeft gegeven voor het verwerken van zijn/haar persoonsgegevens heeft hij/zij het recht deze toestemming ten alle tijde in te trekken. Deze intrekking van de toestemming heeft geen invloed op verwerkingen die hebben plaatsgevonden voordat de toestemming werd ingetrokken. Verder moet het intrekken van de toestemming net zo makkelijk kunnen als het geven van de toestemming.
 
-**Recht op bezwaar bij AP** (AVG Hoofdstuk 2)
+**Recht op bezwaar bij AP** (AVG[<sup>2</sup>](#referenties) Hoofdstuk 2)
 > Elk persoon heeft het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens, indien hij/zij vindt dat Inter-*Actief* op een onjuiste manier om gaat met zijn/haar persoonsgegevens.
 
 ### 1.4. Profilering bij I.C.T.S.V. Inter-*Actief*
@@ -63,7 +63,7 @@ Inter-*Actief* gebruikt verschillende statistieken om het beleid te sturen waar 
 Binnen Inter-*Actief* hebben naast het bestuur uitsluitend door het bestuur aangewezen personen toegang tot persoonsgegevens. De personen die toegang hebben tot de persoonsgegevens hebben hiervoor een geheimhoudingsovereenkomst getekend met Inter-*Actief*.
 
 ### 1.7. Toelichting Rechtsgronden
-In de volgende hoofdstukken wordt een volledig overzicht gegeven van alle verwerkingsactiviteiten van Inter-*Actief*. Naast de verwerkingsactiviteit en een (korte) toelichting daarbij, wordt er ook telkens een (of meerdere) rechtsgrond(en) genoemd (*a*, *b*, *c*, *d*, *e* of *f*) waarop de verwerkingsactiviteit is gegrond. Deze rechtsgronden komen uit de AVG, Artikel 6[<sup>1</sup>](#referenties). Hieronder volgt een kort overzicht van deze rechtsgronden.
+In de volgende hoofdstukken wordt een volledig overzicht gegeven van alle verwerkingsactiviteiten van Inter-*Actief*. Naast de verwerkingsactiviteit en een (korte) toelichting daarbij, wordt er ook telkens een (of meerdere) rechtsgrond(en) genoemd (*a*, *b*, *c*, *d*, *e* of *f*) waarop de verwerkingsactiviteit is gegrond. Deze rechtsgronden komen uit de GDPR, Artikel 6[<sup>1</sup>](#referenties). Hieronder volgt een kort overzicht van deze rechtsgronden.
 
 **a.** de betrokkene heeft toestemming gegeven voor de verwerking van zijn persoonsgegevens voor een of meer specifieke doeleinden;  
 *Het is toegestaan persoonsgevens te verwerken als de betrokkene toestemming heeft gegeven. Deze rechtsgrond gebruikt Inter-Actief ter verantwoording als het niet onder een andere rechtsgrond valt.*

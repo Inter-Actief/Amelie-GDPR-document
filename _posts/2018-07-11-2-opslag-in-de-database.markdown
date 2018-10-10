@@ -119,7 +119,7 @@ Naast de fysieke ondertekende machtiging in de map, slaat Inter-*Actief* digitaa
 
 #### 2.5.3 Incasso('s), incassoinstructie(s) en terugboekingen
 *Rechtsgrond b, minimale uitvoering incasso-overeenkomst*  
-Voor het uitvoeren van incasso's en het bijhouden van onze financiële administratie slaat Inter-*Actief* alle incasso's, incassoinstructie(s) (regels op de incasso), en terugboekingen van transacties op in onze database. Deze gegevens zijn nodig voor de correcte financiële afhandeling van onze incasso-overeenkomst. De uitgevoerde incasso's, instructies en terugboekingen worden tot 7 jaar na uitvoering bewaard in onze database, omdat dit vereist is van de Nederlandse wet[<sup>2</sup>](#referenties). Zie ook [3.3.5 Opslag van aankoopgegevens van (voormalig) leden](#335-opslag-van-aankoopgegevens-van-voormalig-leden).
+Voor het uitvoeren van incasso's en het bijhouden van onze financiële administratie slaat Inter-*Actief* alle incasso's, incassoinstructie(s) (regels op de incasso), en terugboekingen van transacties op in onze database. Deze gegevens zijn nodig voor de correcte financiële afhandeling van onze incasso-overeenkomst. De uitgevoerde incasso's, instructies en terugboekingen worden tot 7 jaar na uitvoering bewaard in onze database, omdat dit vereist is van de Nederlandse wet[<sup>3</sup>](#referenties). Zie ook [3.3.5 Opslag van aankoopgegevens van (voormalig) leden](#335-opslag-van-aankoopgegevens-van-voormalig-leden).
 
 
 ### 2.6 Overige voorkeuren van leden

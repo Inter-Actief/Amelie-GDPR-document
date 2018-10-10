@@ -58,7 +58,7 @@ Pictures are made at almost all activities of Inter-*Actief*. The photographed p
 
 #### 3.3.5 Storage of Purchase Data of (Former) Members
 *Legal Ground c, retention of financial records*  
-The tax authorities requires associations to keep their financial administration for 7 years according to the fiscal retention[<sup>2</sup>](#references). At Inter-*Actief* this includes, among other things, the membership fees, purchases in the cookie corner, purchases during drinks, enrollment costs for activities and debt collections that were issued.
+The tax authorities requires associations to keep their financial administration for 7 years according to the fiscal retention[<sup>3</sup>](#references). At Inter-*Actief* this includes, among other things, the membership fees, purchases in the cookie corner, purchases during drinks, enrollment costs for activities and debt collections that were issued.
 
 #### 3.3.6 Transfer of RFID-codes and Student and/or Employee Numbers to Alexia
 *Legal Ground f, postpay on drinks*  

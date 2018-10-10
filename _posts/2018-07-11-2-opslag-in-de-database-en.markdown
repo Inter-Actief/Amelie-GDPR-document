@@ -119,7 +119,7 @@ Next to the physical signed authorization in the binder, Inter-*Actief* saves a 
 
 #### 2.5.3 Debt Collection(s), Debt Collection Instruction(s) and Reversals
 *Legal Ground b, minimal execution debt collection agreement*  
-To execute debt collections and keep track of our financial administration, Inter-*Actief* saves all debt collections, debt collection instruction(s) (entries in a debt collection), and reversals of transactions, in our database. These details are necessary for the correct financial settlement of our debt collection agreement. The executed debt collections, their instructions and the reversals are saved in our database for 7 years after execution, because this is required by the Dutch law[<sup>2</sup>](#references). See also [3.3.5 Storage of Purchase Data of (Former) Members](#335-storage-of-purchase-data-of-former-members).
+To execute debt collections and keep track of our financial administration, Inter-*Actief* saves all debt collections, debt collection instruction(s) (entries in a debt collection), and reversals of transactions, in our database. These details are necessary for the correct financial settlement of our debt collection agreement. The executed debt collections, their instructions and the reversals are saved in our database for 7 years after execution, because this is required by the Dutch law[<sup>3</sup>](#references). See also [3.3.5 Storage of Purchase Data of (Former) Members](#335-storage-of-purchase-data-of-former-members).
 
 
 ### 2.6 Other preferences of members
