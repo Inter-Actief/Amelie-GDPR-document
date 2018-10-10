@@ -22,7 +22,7 @@ Als een aankoop gedaan wordt bij Inter-*Actief* en er geen toestemming is gegeve
 Elk lid die vrijwillig besluit toe te treden tot een commissie geeft daarmee expliciete toestemming om hun persoonsgegevens te laten verwerken voor de doelen van deze commissie, beschreven in paragrafen [2.1](#21-ledenadministratie), [2.4](#24-actieve-ledenadministratie), [3.2](#32-bestuurs--en-commissiewerk), [3.3](#33-verwerking-aankopen-en-activiteiten), [3.5](#35-vergaderingen), [3.6](#36-vergaring-van-persoonsgegevens-door-commissies), [3.7](#37-wettelijke-verplichtingen) en [3.9](#39-overige).
 
 #### 3.2.1 Publicatie van naam en functie van commissieleden
-*Rechtsgrond f, bekend maken commissieleden*  
+*Rechtsgrond f, bekendmaken commissieleden*  
 Om de commissieleden te bedanken en hun herkenbaarheid te vergroten, worden de namen en bijbehorende functies op de website gepubliceerd.
 
 #### 3.2.2 Doorgifte van mailadressen aan Studenten Net Twente
@@ -105,9 +105,9 @@ De naam van de ereleden van Inter-*Actief* worden publiek op de website gepublic
 De naam van de leden van verdienste van Inter-*Actief* worden publiek op de website gepubliceerd in combinatie met een uitleg waarom desbetreffend lid een lid van verdienste is. Dit doet Inter-*Actief* om haar leden van verdienste niet te vergeten.
 
 ### 3.9 Overige
-#### 3.9.1 Opslag van persoonsgegevens die voor de ingang van dit document (==TODO date==) in commissie- en/of verenigingsdocumenten terecht zijn gekomen
+#### 3.9.1 Opslag van persoonsgegevens die voor de originele ingangsdatum van dit document (==TODO date==) in commissie- en/of verenigingsdocumenten terecht zijn gekomen
 *Rechtsgrond f, reeds aanwezig archief*  
-(Ver) voor het ingaan van de AVG heeft Inter-*Actief* alle persoonsgegevens die gebruikt zijn door commissies opgeslagen. Deze persoonsgegevens zijn (digitaal) aanwezig op de commissieschijven van de desbetreffende commissies. Omdat het enorm veel werk is om alles te filteren laat Inter-*Actief* dit staan. Voorbeelden hiervan zijn secretarieel jaarverslagen, documenten voor studiereizen en almanakken.
+(Ver) voor het ingaan van de AVG heeft Inter-*Actief* alle persoonsgegevens die gebruikt zijn door commissies opgeslagen. Deze persoonsgegevens zijn (digitaal) aanwezig op de commissieschijven van de desbetreffende commissies. Deze documenten zijn aangemaakt voordat de AVG van kracht werd en worden uitsluitend als naslagwerk gebruikt. Vanwege het legaliteisbeginsel mogen deze documenten daarom ongewijzigd blijven bestaan. Daarnaast kost het buitenproportioneel veel werk om deze documenten allemaal te anonimiseren, dus Inter-*Actief* laat deze documenten ook daarom staan. Voorbeelden hiervan zijn secretarieel jaarverslagen, documenten voor studiereizen en almanakken.
 
 #### 3.9.2 Ledendatabasecontrolemails sturen
 *Rechtsgrond f, jaarlijkse controle van persoonsgegevens*  

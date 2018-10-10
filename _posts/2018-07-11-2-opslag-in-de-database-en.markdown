@@ -7,7 +7,7 @@ lang: en
 
 #### 2.1.1 Full name, including initials
 *Legal Ground b, minimal execution membership agreement*  
-If Inter-*Actief* sends correspondence to her members, Inter-*Actief* wants to know who someone is. That is why Inter-*Actief* saves the names of our members. The name of a member is not removed when their membership ends, because this is linked to data that we have to preserve legally, or to data that describes the activism of the member. We keep the activism data for the reasons named in [2.4.2 Committees and functions](#242-committees-and-functions).
+To be able to successfully correspond with our members, as well as to avoid misunderstandings and mishaps, Inter-*Actief* saves the full name of her members. The name of a member is not removed when their membership ends, because this is linked to data that we have to preserve legally, or to data that describes the activism of the member. We keep the activism data for the reasons named in [2.4.2 Committees and functions](#242-committees-and-functions).
 
 #### 2.1.2 Gender
 *Legal Ground a, voluntary participation gender participation*  
@@ -35,9 +35,11 @@ Phone numbers can be used within the association to quickly make contact between
 *Legal Ground c, compliance with minimum age requirements for online services*  
 Every person that wishes to use the online services of Inter-*Actief* has to be at least sixteen years old, in accordance with the legal requirements. Inter-*Actief* uses the date of birth of a person to determine if they have reached the minimum required age.
 
-*Legal Ground f, compliance with alcohol regulations, birthday-related activities*  
+*Legal Ground f, compliance with alcohol regulations*  
 At activities of Inter-*Actief* where alcoholic consumptions are being sold to its members, it is forbidden to sell these consumptions to members that are under 18 years old. To clarify which members are underage, Inter-*Actief* maintains a list of birthdays of these members.
-Inter-*Actief* also sends a birthday message to her members if the member has given permission for this. The birthday of the member is also published on the website of Inter-*Actief* for other logged in members.
+
+*Legal ground a, birthday-related activities*
+Inter-*Actief* also sends a birthday message to her members if the member has given permission for this. The birthday of the member is also published on the website of Inter-*Actief* for other logged in members, if the member has given permission to do so.
 
 #### 2.1.7 Photograph
 *Legal Ground a, 18+\-list, profile pictures on website and publication in yearbooks*  

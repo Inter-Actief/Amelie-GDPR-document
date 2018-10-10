@@ -7,7 +7,7 @@ lang: nl
 
 #### 2.1.1 Volledige naam, inclusief initialen
 *Rechtsgrond b, minimale uitvoering lidmaatschapsovereenkomst*  
-Als Inter-*Actief* correspondentie stuurt aan haar leden, wil Inter-*Actief* graag weten wie iemand is. Daarom slaat Inter-*Actief* de naam van onze leden op. De naam van een lid wordt niet verwijderd bij uitschrijving, omdat deze gekoppeld is aan gegevens die wij wettelijk moeten bewaren of aan gegevens die het activisme van het lid beschrijven. De activismegegevens bewaren wij voor de redenen benoemd in [2.4.2 Commissies en functies](#242-commissies-en-functies).
+Om de correspondentie met leden succesvol te laten verlopen en misstanden te voorkomen zal Inter-*Actief* de volledige naam opslaan van haar leden. De naam van een lid wordt niet verwijderd bij uitschrijving, omdat deze gekoppeld is aan gegevens die wij wettelijk moeten bewaren of aan gegevens die het activisme van het lid beschrijven. De activismegegevens bewaren wij voor de redenen benoemd in [2.4.2 Commissies en functies](#242-commissies-en-functies).
 
 #### 2.1.2 Geslacht
 *Rechtsgrond a, vrijwillige deelname geslachtsparticipatie*  
@@ -35,9 +35,11 @@ Binnen de vereniging kunnen telefoonnummers worden gebruikt om snel contact te l
 *Rechtsgrond c, naleving minimumleeftijd online diensten*  
 Elk persoon die wenst de online diensten van Inter-*Actief* te gebruiken moet ten minste de leeftijd van zestien hebben bereikt, conform de wettelijke voorschriften. Inter-*Actief* gebruikt de geboortedatum van een persoon om te bepalen of deze de minimumleeftijd reeds heeft bereikt.
 
-*Rechtsgrond f, naleving alcoholregelement, verjaardagsgerelateerde activiteiten*  
+*Rechtsgrond f, naleving alcoholregelement*
 Bij activiteiten van Inter-*Actief* waar Inter-*Actief* alcoholische consumpties verkoopt aan haar leden is het verboden om deze dranken te verkopen aan leden die nog geen 18 jaar oud zijn. Om goed duidelijk te hebben welk lid nog geen 18 jaar oud is houdt Inter-*Actief* een lijst bij waar de verjaardagen van deze leden op staan.
-Ook verstuurt Inter-*Actief* een verjaardagsbericht naar haar leden indien hier toestemming voor gegeven is. Tevens wordt de verjaardag van een lid gepubliceerd op de website van Inter-*Actief* voor ingelogde gebruikers.
+
+*Rechtsgrond a, verjaardagsgerelateerde activiteiten*
+Ook verstuurt Inter-*Actief* een verjaardagsbericht naar haar leden indien hier toestemming voor gegeven is. Tevens wordt de verjaardag van een lid gepubliceerd op de website van Inter-*Actief* voor ingelogde gebruikers mits het lid daar toestemming voor heeft gegeven.
 
 #### 2.1.7 Pasfoto
 *Rechtsgrond a, 18+\-lijst, proﬁelfoto’s op website en publicatie in jaarboeken*  
