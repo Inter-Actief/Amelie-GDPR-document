@@ -17,6 +17,10 @@ For members that have given permission to collect their incurred costs at Inter-
 *Legal Ground b, sending invoices*  
 If a purchase is made at Inter-*Actief*, and the member has not given permission to collect the incurred costs via a direct debit, Inter-*Actief* will send the member an invoice with the name and address of the member on it.
 
+#### 3.1.4 Transfer to Overleg Studieverenigingen
+*Rechtsgrond f, obtaining grants and scholarships*
+Inter-*Actief* sometimes qualifies for grants and scholarships that are issued through the Overleg Studieverenigingen (Organisation of Study associations / OS). These are, for example, grants for participants of the study tour, or scholarships for committee members. For this, the OS sometimes requires personal details of the members that are involved with these activities, to verify that we are actually qualified. In most cases this concerns the names and student numbers of the participants or members. These details will therefore be shared with the Overleg Studieverenigingen.
+
 
 ### 3.2 Board and Committee Work
 Every member that voluntarily decides to join a committee grants permission to process their personal details for the purposes of that committee, described in paragraphs [2.1](#21-membership-administration), [2.4](#24-active-members-administration), [3.2](#32-board-and-committee-work), [3.3](#33-processing-of-purchases-and-activities), [3.5](#35-meetings), [3.6](#36-collection-of-personal-details-by-committees), [3.7](#37-legal-requirements) and [3.9](#39-other).

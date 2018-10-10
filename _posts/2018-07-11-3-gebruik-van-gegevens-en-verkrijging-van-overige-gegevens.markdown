@@ -17,6 +17,10 @@ Voor leden die toestemming hebben gegeven voor het incasseren van gemaakte koste
 *Rechtsgrond b, versturen facturen*  
 Als een aankoop gedaan wordt bij Inter-*Actief* en er geen toestemming is gegeven voor een incasso, of als dit niet van toepassing is, dan stuurt Inter-*Actief* een factuur met de naam en het adres van het lid erop.
 
+#### 3.1.4 Doorgifte aan Overleg Studieverenigingen
+*Rechtsgrond f, verkrijging van subsidie en beurzen*
+Inter-*Actief* komt soms in aanmerking voor subsidies en beurzen die uitgegeven worden via het Overleg Studieverenigingen (OS). Dit zijn bijvoorbeeld subsidies voor studiereisdeelnemers, of beurzen voor commissieleden. Hiervoor heeft het OS soms persoonsgegevens nodig van de de leden die betrokken zijn bij deze activiteiten, met het doel om te kunnen verifiëren dat we daadwerkelijk in aanmerking komen. In de meeste gevallen gaat het hier om namen en studentnummers van de deelnemers of leden. Deze gegevens zullen dan ook worden gedeeld met het Overleg Studieverenigingen.
+
 
 ### 3.2 Bestuurs- en commissiewerk
 Elk lid die vrijwillig besluit toe te treden tot een commissie geeft daarmee expliciete toestemming om hun persoonsgegevens te laten verwerken voor de doelen van deze commissie, beschreven in paragrafen [2.1](#21-ledenadministratie), [2.4](#24-actieve-ledenadministratie), [3.2](#32-bestuurs--en-commissiewerk), [3.3](#33-verwerking-aankopen-en-activiteiten), [3.5](#35-vergaderingen), [3.6](#36-vergaring-van-persoonsgegevens-door-commissies), [3.7](#37-wettelijke-verplichtingen) en [3.9](#39-overige).
