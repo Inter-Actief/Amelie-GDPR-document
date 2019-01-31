@@ -53,13 +53,13 @@ Voor communicatie met personen maakt Inter-*Actief* gebruik van verschillende mi
 *Rechtsgrond a, vrijwillige registratie internationaliteit*  
 Binnen Inter-*Actief* wordt opgeslagen of een lid een internationale achtergrond heeft, met als doel de participatie van internationale leden geanonimiseerd te monitoren en waar nodig te bevorderen door specifiek beleid. Registratie van internationaliteit is in alle gevallen vrijwillig.
 
-#### 2.1.10 E-mailadres ouders/verzorgers
+#### 2.1.10 E-mailadres ouder(s)/verzorger(s)
 *Rechtsgrond a, uitnodiging voor ouderdag*  
-Het e-mailadres van de ouder(s)/verzorger(s) wordt gebruikt om ze uit te nodigen voor de jaarlijkse ouderdag die Inter-*Actief* organiseert voor eerstejaars studenten. Na het opgeven van de gegevens worden de ouder(s)/verzorger(s) gecontacteerd om toestemming te vragen om de gegevens verder te verwerken. De gegevens worden verwijderd als de ouderdag heeft plaatsgevonden of als de ouder(s)/verzorger(s) bezwaar hebben aangetekend tegen de opslag van hun gegevens.
+Het e-mailadres van de ouder(s)/verzorger(s) wordt gebruikt om hen uit te nodigen voor de jaarlijkse ouderdag die Inter-*Actief* organiseert voor eerstejaarsstudenten en hun ouders. Na het opgeven van de gegevens worden de ouder(s)/verzorger(s) gecontacteerd om toestemming te vragen om de gegevens verder te verwerken. De gegevens worden verwijderd als de ouderdag heeft plaatsgevonden of als de ouder(s)/verzorger(s) bezwaar hebben aangetekend tegen de opslag van hun gegevens.
 
 #### 2.1.11 Adres, postcode, woonplaats en land van ouder(s)/verzorger(s)
 *Rechtsgrond a, uitnodiging voor ouderdag*  
-De adresgegevens van de ouder(s)/verzorger(s) worden gebruikt om ze uit te nodigen voor de jaarlijkse ouderdag die Inter-*Actief* organiseert voor eerstejaars studenten. Na het opgeven van de gegevens worden de ouder(s)/verzorger(s) gecontacteerd om toestemming te vragen om de gegevens verder te verwerken. De gegevens worden verwijderd als de ouderdag heeft plaatsgevonden of als de ouder(s)/verzorger(s) bezwaar hebben aangetekend tegen de opslag van hun gegevens.
+De adresgegevens van de ouder(s)/verzorger(s) worden gebruikt om hen uit te nodigen voor de jaarlijkse ouderdag die Inter-*Actief* organiseert voor eerstejaarsstudenten en hun ouders. Na het opgeven van de gegevens worden de ouder(s)/verzorger(s) gecontacteerd om toestemming te vragen om de gegevens verder te verwerken. De gegevens worden verwijderd als de ouderdag heeft plaatsgevonden of als de ouder(s)/verzorger(s) bezwaar hebben aangetekend tegen de opslag van hun gegevens.
 
 #### 2.1.12 Shell
 *Rechtsgrond a, personalisering van computersystemen*  
@@ -117,11 +117,11 @@ Wanneer een lid Inter-*Actief* toestemming geeft automatische incasso’s uit te
 
 #### 2.5.2 Machtiging(en) en amendement(en)
 *Rechtsgrond b, minimale uitvoering incasso-overeenkomst*  
-Naast de fysieke ondertekende machtiging in de map, slaat Inter-*Actief* digitaal een referentie naar deze machtiging toe. Daarnaast staat ook de ingangsdatum en eventuele afloopdatum vermeld. Ook worden amendementen (wijzigingen op deze machtigingen) opgeslagen. Dit zijn correcties op een machtiging (zoals een wijziging van rekeningnummer of foutieve naam). Deze worden opgeslagen omdat de amendementen moeten worden meegestuurd met de eerstvolgende incasso. Machtigingen en amendementen worden tot 14 maanden na het laatste gebruik of de beeindiging van het lidmaatschap bewaard in eigenbelang voor de vereniging, omdat er tot 14 maanden na gebruik nog bezwaar gemaakt kan worden op een incasso.
+Naast de fysieke, ondertekende machtiging in de map, slaat Inter-*Actief* digitaal een referentie naar deze machtiging op. Daarnaast staat ook de ingangsdatum en eventuele afloopdatum vermeld. Ook worden amendementen (wijzigingen op deze machtigingen) opgeslagen. Dit zijn correcties op een machtiging (zoals een wijziging van rekeningnummer of foutieve naam). Deze worden opgeslagen omdat de amendementen moeten worden meegestuurd met de eerstvolgende incasso. Machtigingen en amendementen worden tot 14 maanden na het laatste gebruik of de beeindiging van het lidmaatschap bewaard in eigenbelang voor de vereniging, omdat er tot 14 maanden na gebruik nog bezwaar gemaakt kan worden op een incasso.
 
 #### 2.5.3 Incasso('s), incassoinstructie(s) en terugboekingen
 *Rechtsgrond b, minimale uitvoering incasso-overeenkomst*  
-Voor het uitvoeren van incasso's en het bijhouden van onze financiële administratie slaat Inter-*Actief* alle incasso's, incassoinstructie(s) (regels op de incasso), en terugboekingen van transacties op in onze database. Deze gegevens zijn nodig voor de correcte financiële afhandeling van onze incasso-overeenkomst. De uitgevoerde incasso's, instructies en terugboekingen worden tot 7 jaar na uitvoering bewaard in onze database, omdat dit vereist is van de Nederlandse wet[<sup>3</sup>](#referenties). Zie ook [3.3.5 Opslag van aankoopgegevens van (voormalig) leden](#335-opslag-van-aankoopgegevens-van-voormalig-leden).
+Voor het uitvoeren van incasso's en het bijhouden van onze financiële administratie slaat Inter-*Actief* alle incasso's, incassoinstructie(s) (regels op de incasso), en terugboekingen van transacties op in onze database. Deze gegevens zijn nodig voor de correcte financiële afhandeling van onze incasso-overeenkomst. De uitgevoerde incasso's, instructies en terugboekingen worden tot 7 jaar na uitvoering bewaard in onze database, omdat dit vereist wordt van van de Nederlandse wet[<sup>3</sup>](#referenties). Zie ook [3.3.5 Opslag van aankoopgegevens van (voormalig) leden](#335-opslag-van-aankoopgegevens-van-voormalig-leden).
 
 
 ### 2.6 Overige voorkeuren van leden

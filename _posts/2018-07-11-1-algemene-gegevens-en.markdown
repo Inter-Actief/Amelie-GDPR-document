@@ -4,10 +4,10 @@ categories: algemeen
 lang: en
 ---
 ### 1.1. Contact details and Identity I.C.T.S.V. Inter-*Actief*
-Informatie- en Communicatietechnologische Studievereniging Inter-*Actief* is the study association for Technical Computer Science and Business & IT at the University of Twente. Inter-*Actief* is registered at the Chamber of Commerce under number 40074947. Inter-*Actief* can be visited at the Drienerlolaan 5, 7522 NB in Enschede. Inter-*Actief* is reachable by phone on +31 (0)53 489 3756 and via mail on board@inter-actief.net.
+Informatie- en Communicatietechnologische Studievereniging Inter-*Actief* is the study association for Technical Computer Science and Business & IT at the University of Twente. Inter-*Actief* is registered at the Chamber of Commerce under number 40074947. Inter-*Actief* can be visited at Drienerlolaan 5, 7522 NB in Enschede. Inter-*Actief* is reachable by phone on +31 (0)53 489 3756 and via mail on board@inter-actief.net.
 
 ### 1.2. Storage period of data
-Inter-*Actief* keeps the details of the membership until the membership is terminated, with the exception of the instances specified in the next chapters. After termination of the membership the personal details of a member might be kept in backups for up to a year.
+Inter-*Actief* keeps the details of the membership until the membership is terminated, with the exception of the instances specified in the next chapters. After termination of the membership the personal details of a member are kept in backups for up to a year.
 
 ### 1.3. Rights of the involved
 Every European citizen has the following rights:
@@ -30,7 +30,7 @@ Every European citizen has the following rights:
 > - The personal details are no longer necessary for the purposes for which they were initially collected and/or stored.
 > - Someone revokes their given permission for the processing of the personal details. (The deletion is only mandatory if the processing of the personal details is solely based on this permission).
 > - Someone successfully objects to the processing of their personal details (see "Right to objection").
-> - The personal details were obtained in an unlawful manner.
+> - The personal details were processed in an unlawful manner.
 > - There is a law that obligates Inter-*Actief* to delete the personal details.
 
 **Right to restriction of processing** (GDPR Article 18)
@@ -40,7 +40,7 @@ Every European citizen has the following rights:
 > - Someone has objected to the processing of their personal details; the restriction applies until the objection is either marked as successful or is rejected.
 
 **Right to transfer data** (GDPR Article 20)
-> Everyone has the right to receive the personal details that they provided to Inter-*Actief* in the context of processing under legal basis *a* or *b* (see below), in a structured manner. This only applies if the processing activities occurs (partly) automatically. They have the right to (without interference of Inter-*Actief*) transfer these details to others. If technically possible, Inter-*Actief* needs to transfer these details directly to the other party if requested by the person.
+> Everyone has the right to receive the personal details that they provided to Inter-*Actief* in the context of processing under legal basis *a* or *b* (see below), in a structured manner. This only applies if the processing activities occur (partly) automatically. They have the right to (without interference of Inter-*Actief*) transfer these details to others. If technically possible, Inter-*Actief* needs to transfer these details directly to the other party if requested by the person.
 > NB: The right to be forgotten weighs heavier than the right to transfer data.
 
 **Right to objection** (GDPR Article 21)
@@ -54,7 +54,7 @@ Every European citizen has the following rights:
 > Every person has the right to submit a complaint with the Dutch Data Protection Authority (Autoriteit Persoonsgegevens), if they think that Inter-*Actief* is handling their personal details in an unjust manner.
 
 ### 1.4. Profiling at I.C.T.S.V. Inter-*Actief*
-At Inter-*Actief* profiling happens sometimes while sending mailings. A company mailing for example is sometimes only sent to members that have been studying for some amount of years. Inter-*Actief* does this only to avoid their members getting flooded with mails that are not applicable to them.
+At Inter-*Actief* profiling happens sometimes while sending mailings. A company mailing for example is sometimes only sent to members that have been studying for an amount of years. Inter-*Actief* does this only to avoid their members getting flooded with mails that are not applicable to them.
 
 ### 1.5. Anonymous Statistics
 Inter-*Actief* uses various statistics to steer its policy where necessary. For this, personal details could be used. In all cases the personal details are anonymized before display to guarantee the privacy of every person.
@@ -81,4 +81,4 @@ The next chapters will give a full overview of all data processing activities of
 *(This legal ground is meant for government agencies, therefore it can never be used by Inter-Actief.)*
 
 **f.** the processing is necessary for the representation of legitimate interests of the processing party or of a third party, except for when the interests or the fundamental rights and freedoms of the person concerned that relate to the protection of personal data, outweigh those interests, especially when the person concerned is a child.  
-*This is the most complicated legal ground and also the legal ground that Inter-Actief uses the most to justify the processing. This legal ground means that Inter-Actief can process personal details if the interests of Inter-Actief outweigh the interest of the person concerned. If for example a member is not disadvantaged by the use of their student number, and Inter-Actief for example gets a large financial benefit from the use, then Inter-Actief is allowed to process the personal details. Inter-Actief has to stop the processing if the person concerned can demonstrate that the interest of the person outweigh those of Inter-Actief.*
+*This is the most complicated legal ground and also the legal ground that Inter-Actief uses the most to justify the processing. This legal ground means that Inter-Actief can process personal details if the interests of Inter-Actief outweigh the interest of the person concerned. If for example a member is not disadvantaged by the use of their student number, and Inter-Actief for example gets a large financial benefit from the use, then Inter-Actief is allowed to process the personal details. Inter-Actief has to stop the processing if the person concerned can demonstrate that the interests of the person outweigh those of Inter-Actief.*

@@ -18,7 +18,7 @@ For members that have given permission to collect their incurred costs at Inter-
 If a purchase is made at Inter-*Actief*, and the member has not given permission to collect the incurred costs via a direct debit, Inter-*Actief* will send the member an invoice with the name and address of the member on it.
 
 #### 3.1.4 Transfer to Overleg Studieverenigingen
-*Rechtsgrond f, obtaining grants and scholarships*
+*Rechtsgrond f, obtaining grants and scholarships*  
 Inter-*Actief* sometimes qualifies for grants and scholarships that are issued through the Overleg Studieverenigingen (Organisation of Study associations / OS). These are, for example, grants for participants of the study tour, or scholarships for committee members. For this, the OS sometimes requires personal details of the members that are involved with these activities, to verify that we are actually qualified. In most cases this concerns the names and student numbers of the participants or members. These details will therefore be shared with the Overleg Studieverenigingen.
 
 
@@ -26,7 +26,7 @@ Inter-*Actief* sometimes qualifies for grants and scholarships that are issued t
 Every member that voluntarily decides to join a committee grants permission to process their personal details for the purposes of that committee, described in paragraphs [2.1](#21-membership-administration), [2.4](#24-active-members-administration), [3.2](#32-board-and-committee-work), [3.3](#33-processing-of-purchases-and-activities), [3.5](#35-meetings), [3.6](#36-collection-of-personal-details-by-committees), [3.7](#37-legal-requirements) and [3.9](#39-other).
 
 #### 3.2.1 Publication of Name and Function of Committee Members
-*Legal Ground f, announce committee members*  
+*Legal Ground f, announcing committee members*  
 To thank the committee members and increase their recognizability, the names and corresponding functions are published on the website.
 
 #### 3.2.2 Transfer of E-mail Addresses to Studenten Net Twente
@@ -44,13 +44,13 @@ Over the years a lot of members have taken place in the board of Inter-*Actief*.
 
 ### 3.3 Processing of Purchases and Activities
 
-#### 3.3.1 Enrollment and Unenrollment Confirmation E-mails for Internal Activities
+#### 3.3.1 Confirmation E-mails for Enrollment and Unenrollment for Internal Activities
 *Legal Ground f, informing members with regard to activities*  
 While enrolling and unenrolling for internal activities by members of Inter-*Actief*, the person concerned receives a confirmation e-mail to (if required) prove to the organization that they (un)enrolled for the activity. For this, Inter-*Actief* uses the e-mail address of the member.
 
 #### 3.3.2 Enrollment Forms for Activities
 *Legal Ground a, execution of activities*  
-For some activities it is necessary to collect extra information to make sure the activity runs smoothly. This information is only used for the execution and settlement of that activity and are removed afterwards.
+For some activities it is necessary to collect extra information to make sure the activity runs smoothly. This information is only used for the execution and settlement of that activity and is removed afterwards.
 
 #### 3.3.3 Transfer of Personal Details to Third Parties Due to the Nature of Activities
 *Legal Ground a and b, corresponding obligations after explicit consent of person*  
@@ -58,7 +58,7 @@ Because of the nature of some activities, which may or may not be based in part 
 
 #### 3.3.4 Publication of Pictures of Activities
 *Legal Ground f, internal and external promotion of activities*  
-Pictures are made at almost all activities of Inter-*Actief*. The photographed people are not explicitly mentioned by name. The name of the photographer is shown with the pictures. The pictures are filtered by Inter-*Actief* and published publicly on the website. Pictures that contain contents that Inter-*Actief* does not want to show to external parties are only published internally (for logged in users) on the website. At the request of a person with a reasonable interest, a picture may be deleted from the website.
+Pictures are made at almost all activities of Inter-*Actief*. The photographed people are not explicitly mentioned by name. The name of the photographer is shown with the pictures. The pictures are filtered by Inter-*Actief* and published publicly on the website. Pictures that contain contents that Inter-*Actief* does not want to show to external parties are only published internally (for logged in users) on the website. At the request of a person with a reasonable interest, a picture will be deleted from the website.
 
 #### 3.3.5 Storage of Purchase Data of (Former) Members
 *Legal Ground c, retention of financial records*  
@@ -66,7 +66,7 @@ The tax authorities requires associations to keep their financial administration
 
 #### 3.3.6 Transfer of RFID-codes and Student and/or Employee Numbers to Alexia
 *Legal Ground f, postpay on drinks*  
-If a member of Inter-*Actief* has signed a consumption authorization with regard to collecting expenses at drinks, then these purchases need to be registered so that the incurred costs can be collected at a later date. For this purpose we use a self developed system called Alexia. To register the purchases in this system we share the RFID-codes and student or employee numbers of the member with this application. The details of the data processing of this system is handled further in the privacy document of this application.
+If a member of Inter-*Actief* has signed a consumption authorization with regard to collecting expenses at drinks, then these purchases need to be registered so that the incurred costs can be collected at a later date. For this purpose we use an internally developed system called Alexia. To register the purchases in this system we share the RFID-codes and student or employee numbers of the member with this application. The details of the data processing of this system are handled further in the privacy document of this application.
 
 
 ### 3.4 The Goals of Inter-*Actief*

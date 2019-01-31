@@ -7,7 +7,7 @@ lang: en
 
 #### 2.1.1 Full name, including initials
 *Legal Ground b, minimal execution membership agreement*  
-To be able to successfully correspond with our members, as well as to avoid misunderstandings and mishaps, Inter-*Actief* saves the full name of her members. The name of a member is not removed when their membership ends, because this is linked to data that we have to preserve legally, or to data that describes the activism of the member. We keep the activism data for the reasons named in [2.4.2 Committees and functions](#242-committees-and-functions).
+To be able to successfully correspond with our members, as well as to avoid misunderstandings and mishaps, Inter-*Actief* saves the full name of her members. The name of a member is not removed when their membership ends, because it is linked to data that we have to preserve legally, or to data that describes the activism of the member. We keep the activism data for the reasons named in [2.4.2 Committees and functions](#242-committees-and-functions).
 
 #### 2.1.2 Gender
 *Legal Ground a, voluntary participation gender participation*  
@@ -15,7 +15,7 @@ Within Inter-*Actief* the gender of a member is saved to anonymously monitor the
 
 #### 2.1.3 E-mail address
 *Legal Ground b, minimal execution membership agreement*  
-The primary means of communication with members that Inter-*Actief* uses is e-mail. Invitations to General Member Meetings and membership information is shared using this channel.
+The primary means of communication with members that Inter-*Actief* uses is e-mail. Invitations to General Member Meetings are, and membership information is shared using this channel.
 
 *Legal Ground a, information mailings and side activities*  
 Furthermore, this means of communication is used for communication to members that they have explicitly given permission for.
@@ -42,7 +42,7 @@ At activities of Inter-*Actief* where alcoholic consumptions are being sold to i
 Inter-*Actief* also sends a birthday message to her members if the member has given permission for this. The birthday of the member is also published on the website of Inter-*Actief* for other logged in members, if the member has given permission to do so.
 
 #### 2.1.7 Photograph
-*Legal Ground a, 18+\-list, profile pictures on website and publication in yearbooks*  
+*Legal Ground a, 18+\-list, profile pictures on website and publication in year books*  
 As a tool for organizers and supporting members, a list with names and pictures of underage members is maintained. Furthermore, the pictures of our members are used by the board as a tool to identify people. Pictures of members can also be published in yearbooks, if the member has given permission for this.
 
 #### 2.1.8 Preferred Language
@@ -55,11 +55,11 @@ Inter-*Actief* saves if a member has an international background, to anonymously
 
 #### 2.1.10 E-mail address parent(s)/guardian(s)
 *Legal Ground a, invitation to parents day*  
-The e-mail address of the parent(s)/guardian(s) is used to invite them to the yearly parents day that Inter-*Actief* organizes for the first year students. After filling in the details the parent(s)/guardian(s) are contacted to ask for their permission to process these details further. The details are removed if the parents day has occurred or if the parent(s)/guardian(s) object to the storage of their personal details.
+The e-mail address of the parent(s)/guardian(s) is used to invite them to the yearly parents' day that Inter-*Actief* organizes for the first year students and their parents. After filling in the details the parent(s)/guardian(s) are contacted to ask for their permission to process these details further. The details are removed if the parents' day has occurred or if the parent(s)/guardian(s) object to the storage of their personal details.
 
 #### 2.1.11 Address, postal code, city and country of residence of parent(s)/guardian(s)
 *Legal Ground a, invitation to parents day*  
-The address details of the parent(s)/guardian(s) are used to invite them to the yearly parents day that Inter-*Actief* organizes for the first year students. After filling in the details the parent(s)/guardian(s) are contacted to ask for their permission to process these details further. The details are removed if the parents day has occurred or if the parent(s)/guardian(s) object to the storage of their personal details.
+The address details of the parent(s)/guardian(s) are used to invite them to the yearly parents' day that Inter-*Actief* organizes for the first year students and their parents. After filling in the details the parent(s)/guardian(s) are contacted to ask for their permission to process these details further. The details are removed if the parents' day has occurred or if the parent(s)/guardian(s) object to the storage of their personal details.
 
 #### 2.1.12 Shell
 *Legal Ground a, personalization of computer systems*  
@@ -67,7 +67,7 @@ It is possible for members to (remotely or not) log in to one or multiple comput
 
 #### 2.1.13 Webmaster
 *Legal Ground a, responsibility for committee website(s)*  
-Some committees of Inter-*Actief* have their own website that is managed by the committee. This preference is used to mark specific persons as the *webmaster* of a committee website, so that the association knows who is responsible for the website(s).
+Some committees of Inter-*Actief* have their own website that is managed by the committee. This preference is used to mark specific persons as the *webmaster* of a committee website, so that the association knows who is responsible for these websites.
 
 #### 2.1.14 Memberships
 *Legal Ground b, minimal execution membership agreement*  

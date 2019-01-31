@@ -7,7 +7,7 @@ lang: nl
 
 #### 3.1.1 Doorgifte aan faculteit
 *Rechtsgrond f, verkrijging van subsidie*  
-Inter-*Actief* krijgt van de faculteit EWI een bijdrage per jaar per lid dat een van onze primaire studies volgt. Om te bepalen voor hoeveel leden Inter-*Actief* deze bijdrage ontvangt, wil de faculteit een lijst van leden met studentnummer ontvangen. Hiervoor worden jaarlijks de studentnummers van onze studentleden doorgegeven aan de faculteit.
+Inter-*Actief* krijgt van de faculteit EWI een bijdrage per jaar per lid dat één van onze primaire studies volgt. Om te bepalen voor hoeveel leden Inter-*Actief* deze bijdrage ontvangt, wil de faculteit een lijst van leden met studentnummer ontvangen. Hiervoor worden jaarlijks de studentnummers van onze studentleden doorgegeven aan de faculteit.
 
 #### 3.1.2 Incasso’s sturen/uitvoeren
 *Rechtsgrond b, uitvoering incasso-overeenkomst*  
@@ -18,7 +18,7 @@ Voor leden die toestemming hebben gegeven voor het incasseren van gemaakte koste
 Als een aankoop gedaan wordt bij Inter-*Actief* en er geen toestemming is gegeven voor een incasso, of als dit niet van toepassing is, dan stuurt Inter-*Actief* een factuur met de naam en het adres van het lid erop.
 
 #### 3.1.4 Doorgifte aan Overleg Studieverenigingen
-*Rechtsgrond f, verkrijging van subsidie en beurzen*
+*Rechtsgrond f, verkrijging van subsidie en beurzen*  
 Inter-*Actief* komt soms in aanmerking voor subsidies en beurzen die uitgegeven worden via het Overleg Studieverenigingen (OS). Dit zijn bijvoorbeeld subsidies voor studiereisdeelnemers, of beurzen voor commissieleden. Hiervoor heeft het OS soms persoonsgegevens nodig van de de leden die betrokken zijn bij deze activiteiten, met het doel om te kunnen verifiëren dat we daadwerkelijk in aanmerking komen. In de meeste gevallen gaat het hier om namen en studentnummers van de deelnemers of leden. Deze gegevens zullen dan ook worden gedeeld met het Overleg Studieverenigingen.
 
 
@@ -35,7 +35,7 @@ Inter-*Actief* heeft het beheer van de mailaliassen van onder andere commissies 
 
 #### 3.2.3 Doorgifte gegevens ten behoeve van gebouwpassen Zilverling
 *Rechtsgrond a, gebouwpas aanvragen*  
-Mocht een lid een gebouwpas nodig hebben voor de Zilverling, dan vraagt Inter-*Actief* deze aan bij de beveiliging van de UT. Voor deze aanvraag zijn het e-mailadres, de naam, het studentnummer en de initialen van de lid nodig. Deze gegevens worden daarbij doorgegeven aan de UT.
+Mocht een lid een gebouwpas nodig hebben voor de Zilverling, dan vraagt Inter-*Actief* deze aan bij de beveiliging van de UT. Voor deze aanvraag zijn het e-mailadres, de naam, het studentnummer en de initialen van het lid nodig. Deze gegevens worden daarbij doorgegeven aan de UT.
 
 #### 3.2.4 Publicatie van naam en foto van (oud-)bestuurders
 *Rechtsgrond f, herkenbaarheid (oud-)bestuurders*  
