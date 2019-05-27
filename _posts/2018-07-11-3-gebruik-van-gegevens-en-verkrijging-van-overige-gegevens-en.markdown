@@ -29,9 +29,9 @@ Every member that voluntarily decides to join a committee grants permission to p
 *Legal Ground f, announcing committee members*  
 To thank the committee members and increase their recognizability, the names and corresponding functions are published on the website.
 
-#### 3.2.2 Transfer of E-mail Addresses to Studenten Net Twente
-*Legal Ground f, e-mail alias administration*  
-Inter-*Actief* has outsourced the management of the e-mail aliases of, among other things, committees and (former) boards to the Studenten Net Twente (SNT). Inter-*Actief* shares the e-mail addresses of committee members, (former) board members and other incidental cases with Studenten Net Twente.
+#### 3.2.2 Transfer of E-mail Addresses to Google
+*Legal Ground f, e-mail (alias) administration*  
+Inter-*Actief* has outsourced the management of the e-mail addresses and aliases of active members, committees and other groups to Google. Inter-*Actief* shares the email addresses and names of members of these groups with Google via Gsuite.
 
 #### 3.2.3 Transfer of Details for the Purpose of Building Passes for the Zilverling
 *Legal Ground a, requesting a building pass*  

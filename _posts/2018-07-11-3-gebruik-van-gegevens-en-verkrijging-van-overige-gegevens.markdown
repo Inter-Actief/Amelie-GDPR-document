@@ -29,9 +29,9 @@ Elk lid die vrijwillig besluit toe te treden tot een commissie geeft daarmee exp
 *Rechtsgrond f, bekendmaken commissieleden*  
 Om de commissieleden te bedanken en hun herkenbaarheid te vergroten, worden de namen en bijbehorende functies op de website gepubliceerd.
 
-#### 3.2.2 Doorgifte van mailadressen aan Studenten Net Twente
-*Rechtsgrond f, administratie mailaliassen*  
-Inter-*Actief* heeft het beheer van de mailaliassen van onder andere commissies en (oud-)besturen uitbesteed aan Studenten Net Twente (SNT). Inter-*Actief* deelt de mailadressen van commissieleden, (oud-)bestuursleden en andere incidentele gevallen met Studenten Net Twente.
+#### 3.2.2 Doorgifte van mailadressen aan Google
+*Rechtsgrond f, administratie mailadressen en -aliassen*  
+Inter-*Actief* heeft het beheer van de mailadressen en -aliassen van actieve leden, commissies en ander groepen uitbesteed aan Google. Inter-*Actief* deelt de mailadressen en namen van leden van deze gropen met Google doormiddel van Gsuite.
 
 #### 3.2.3 Doorgifte gegevens ten behoeve van gebouwpassen Zilverling
 *Rechtsgrond a, gebouwpas aanvragen*  
