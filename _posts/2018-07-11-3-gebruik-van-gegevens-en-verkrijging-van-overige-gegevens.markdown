@@ -31,7 +31,7 @@ Om de commissieleden te bedanken en hun herkenbaarheid te vergroten, worden de n
 
 #### 3.2.2 Doorgifte van mailadressen aan Google
 *Rechtsgrond f, administratie mailadressen en -aliassen*  
-Inter-*Actief* heeft het beheer van de mailadressen en -aliassen van actieve leden, commissies en ander groepen uitbesteed aan Google. Inter-*Actief* deelt de mailadressen en namen van leden van deze gropen met Google doormiddel van Gsuite.
+Inter-*Actief* heeft het beheer van de mailadressen en -aliassen van actieve leden, commissies en andere groepen uitbesteed aan Google. Inter-*Actief* deelt de mailadressen en namen van leden van deze groepen met Google door middel van GSuite.
 
 #### 3.2.3 Doorgifte gegevens ten behoeve van gebouwpassen Zilverling
 *Rechtsgrond a, gebouwpas aanvragen*  
