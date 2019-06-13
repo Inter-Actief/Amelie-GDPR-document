@@ -31,7 +31,7 @@ To thank the committee members and increase their recognizability, the names and
 
 #### 3.2.2 Transfer of E-mail Addresses to Google
 *Legal Ground f, e-mail (alias) administration*  
-Inter-*Actief* has outsourced the management of the e-mail addresses and aliases of active members, committees and other groups to Google. Inter-*Actief* shares the email addresses and names of members of these groups with Google via Gsuite.
+Inter-*Actief* has outsourced the management of the e-mail addresses and aliases of active members, committees and other groups to Google. Inter-*Actief* shares the e-mail addresses and names of members of these groups with Google via GSuite.
 
 #### 3.2.3 Transfer of Details for the Purpose of Building Passes for the Zilverling
 *Legal Ground a, requesting a building pass*  
