@@ -109,7 +109,7 @@ The names of the honorary members of Inter-*Actief* are publicly published on th
 The names of the members of merit of Inter-*Actief* are publicly published on the website in combination with a description why the member became a members of merit. Inter-*Actief* does this to remember her members of merit.
 
 ### 3.9 Other
-#### 3.9.1 Storage of personal details that were stored before the original date that this document came into effect (==TODO date==) in committee and/or association documents
+#### 3.9.1 Storage of personal details that were stored before the original date that this document came into effect (31-10-2019) in committee and/or association documents
 *Legal Ground f, existing archives*  
 (Far) before the AVG went into effect Inter-*Actief* stored all personal details that are used by committees. These personal details are (digitally) present on the committee drives of the corresponding committees. These documents were created before the AVG came into effect and are only used as reference documents. Because of the legality principle it is allowed to keep these documents unchanged. Next to that, it is a huge amount of work to anonymize all of these documents, so Inter-*Actief* will keep these documents as they are. Examples of this are secretarial yearly reports, documents for study trips and old almanacs.
 

@@ -109,7 +109,7 @@ De naam van de ereleden van Inter-*Actief* worden publiek op de website gepublic
 De naam van de leden van verdienste van Inter-*Actief* worden publiek op de website gepubliceerd in combinatie met een uitleg waarom desbetreffend lid een lid van verdienste is. Dit doet Inter-*Actief* om haar leden van verdienste niet te vergeten.
 
 ### 3.9 Overige
-#### 3.9.1 Opslag van persoonsgegevens die voor de originele ingangsdatum van dit document (==TODO date==) in commissie- en/of verenigingsdocumenten terecht zijn gekomen
+#### 3.9.1 Opslag van persoonsgegevens die voor de originele ingangsdatum van dit document (31-10-2019) in commissie- en/of verenigingsdocumenten terecht zijn gekomen
 *Rechtsgrond f, reeds aanwezig archief*  
 (Ver) voor het ingaan van de AVG heeft Inter-*Actief* alle persoonsgegevens die gebruikt zijn door commissies opgeslagen. Deze persoonsgegevens zijn (digitaal) aanwezig op de commissieschijven van de desbetreffende commissies. Deze documenten zijn aangemaakt voordat de AVG van kracht werd en worden uitsluitend als naslagwerk gebruikt. Vanwege het legaliteisbeginsel mogen deze documenten daarom ongewijzigd blijven bestaan. Daarnaast kost het buitenproportioneel veel werk om deze documenten allemaal te anonimiseren, dus Inter-*Actief* laat deze documenten ook daarom staan. Voorbeelden hiervan zijn secretarieel jaarverslagen, documenten voor studiereizen en almanakken.
 
