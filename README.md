@@ -1,4 +1,4 @@
-PrivaCie GDPR-documentt
+PrivaCie GDPR-document
 ========================
 
 Prerequisites
