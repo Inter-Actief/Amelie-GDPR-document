@@ -56,15 +56,19 @@ Bij sommige activiteiten is extra informatie nodig om de activiteit goed te late
 *Rechtsgrond a en b, overeenkomstige verplichtingen na expliciete toestemming persoon*  
 Vanwege de aard van sommige activiteiten, die al dan niet gedeeltelijk berusten op de verwerking van persoonsgegevens door derden, worden in bepaalde gevallen deze persoonsgegevens gedeeld met externe partijen. Deze persoonsgegevens worden slechts gedeeld na expliciete toestemming van de persoon ten tijde van inschrijving voor de activiteit. De gedeelde informatie zal worden beperkt tot datgene wat strikt noodzakelijk wordt bevonden voor de afgesloten overeenkomst.
 
-#### 3.3.4 Publicatie van foto’s van activiteiten
+#### 3.3.4 Opvragen deelnemers van activiteiten door andere leden
+*Rechtsgrond f, interne promotie van activiteiten*
+Een lid van Inter-*Actief* mag op verzoek bij het bestuur de lijst met namen van personen inzien die ingeschreven staan voor een activiteit. Dit wordt gedaan zodat het lid kan zien of er bekenden aanwezig zullen zijn, en zo zijn beslissing om naar de activiteit te komen beter kan maken. Dit bevordert de promotie van activiteiten binnen Inter-*Actief*. De gegevens worden alleen gedeeld na toestemming van het bestuur, de gedeelde informatie wordt beperkt tot de namen van de ingeschreven personen.
+
+#### 3.3.5 Publicatie van foto’s van activiteiten
 *Rechtsgrond f, interne en externe promotie van activiteiten*  
 Bij bijna alle activiteiten van Inter-*Actief* worden foto’s gemaakt. De gefotografeerde personen worden niet expliciet bij naam genoemd. De naam van de fotograaf wordt bij de foto's genoemd. De foto’s worden gefilterd door Inter-*Actief* en publiek op de website gezet. Foto’s die iets laten zien dat Inter-*Actief* niet wil tonen aan externen worden afgeschermd gepubliceerd op de website. Op verzoek van een persoon met een redelijk belang wordt een foto van de website verwijderd.
 
-#### 3.3.5 Opslag van aankoopgegevens van (voormalig) leden
+#### 3.3.6 Opslag van aankoopgegevens van (voormalig) leden
 *Rechtsgrond c, bewaarplicht financiële administratie*  
 De belastingdienst verplicht verenigingen om hun financiële administratie 7 jaar lang te bewaren volgens de fiscale bewaarplicht[<sup>3</sup>](#referenties). Hieronder vallen bij Inter-*Actief* onder andere de lidmaatschapskosten, aankopen in de streeplijst, aankopen op borrels, inschrijfkosten voor activiteiten en uitgevoerde incasso's.
 
-#### 3.3.6 Doorgifte RFID-codes en student- en/of medewerkersnummers aan Alexia
+#### 3.3.7 Doorgifte RFID-codes en student- en/of medewerkersnummers aan Alexia
 *Rechtsgrond f, achteraf betalen borrels*  
 Als een lid van Inter-*Actief* een consumptiemachtiging heeft afgesloten met betrekking tot het incasseren van uitgaven bij borrels dan moeten deze aankopen geregistreerd worden zodat de kosten achteraf kunnen worden geincasseerd. Voor dit doel gebruiken wij het zelfontwikkelde systeem Alexia. Om hier de aankopen in te registreren geven wij de RFID-codes en student- of medewerkersnummers van het lid door aan deze applicatie. Verwerking van deze gegevens wordt verder afgehandeld in het privacydocument van deze applicatie.
 
