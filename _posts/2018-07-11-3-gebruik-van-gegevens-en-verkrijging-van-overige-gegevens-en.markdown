@@ -57,7 +57,7 @@ For some activities it is necessary to collect extra information to make sure th
 Because of the nature of some activities, which may or may not be based in part on the processing of personal details by third parties, in some cases personal details are shared with external parties. The personal details are only shared after explicit permission from the person concerned at the time of enrollment for the activity. The shared information is limited to the parts that are found to be strictly necessary for the concluded agreement.
 
 #### 3.3.4 Request participants of activities by other members
-*Legal Ground f, internal promotion of activities*
+*Legal Ground f, internal promotion of activities*  
 A member of Inter-*Actief* can, on request at the board, see the list of names of participants that have enrolled for an activity. This is done so that the member can see if friends will be present at the activity, to better make their choice of going to the activity. This improves the promotion of activities within Inter-*Actief*. The information will only be shared after permission by the board, the shared information is limited to the names of the participants. The information is only available for direct inspection. 
 
 #### 3.3.5 Publication of Pictures of Activities

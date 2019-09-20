@@ -57,7 +57,7 @@ Bij sommige activiteiten is extra informatie nodig om de activiteit goed te late
 Vanwege de aard van sommige activiteiten, die al dan niet gedeeltelijk berusten op de verwerking van persoonsgegevens door derden, worden in bepaalde gevallen deze persoonsgegevens gedeeld met externe partijen. Deze persoonsgegevens worden slechts gedeeld na expliciete toestemming van de persoon ten tijde van inschrijving voor de activiteit. De gedeelde informatie zal worden beperkt tot datgene wat strikt noodzakelijk wordt bevonden voor de afgesloten overeenkomst.
 
 #### 3.3.4 Opvragen deelnemers van activiteiten door andere leden
-*Rechtsgrond f, interne promotie van activiteiten*
+*Rechtsgrond f, interne promotie van activiteiten*  
 Een lid van Inter-*Actief* mag op verzoek bij het bestuur de lijst met namen van personen inzien die ingeschreven staan voor een activiteit. Dit wordt gedaan zodat het lid kan zien of er bekenden aanwezig zullen zijn, en zo zijn beslissing om naar de activiteit te komen beter kan maken. Dit bevordert de promotie van activiteiten binnen Inter-*Actief*. De gegevens worden alleen gedeeld na toestemming van het bestuur, de gedeelde informatie wordt beperkt tot de namen van de ingeschreven personen.
 
 #### 3.3.5 Publicatie van foto’s van activiteiten
