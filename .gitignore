@@ -3,3 +3,4 @@ _site
 .sass-cache
 vendor
 Gemfile.lock
+.jekyll-cache
