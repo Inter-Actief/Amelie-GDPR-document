@@ -29,9 +29,9 @@ Every member that voluntarily decides to join a committee grants permission to p
 *Legal Ground f, announcing committee members*  
 To thank the committee members and increase their recognizability, the names and corresponding functions are published on the website.
 
-#### 3.2.2 Transfer of E-mail Addresses to Studenten Net Twente
-*Legal Ground f, e-mail alias administration*  
-Inter-*Actief* has outsourced the management of the e-mail aliases of, among other things, committees and (former) boards to the Studenten Net Twente (SNT). Inter-*Actief* shares the e-mail addresses of committee members, (former) board members and other incidental cases with Studenten Net Twente.
+#### 3.2.2 Transfer of E-mail Addresses to Google
+*Legal Ground f, e-mail (alias) administration*  
+Inter-*Actief* has outsourced the management of the e-mail addresses and aliases of active members, committees and other groups to Google. Inter-*Actief* shares the e-mail addresses and names of members of these groups with Google via GSuite.
 
 #### 3.2.3 Transfer of Details for the Purpose of Building Passes for the Zilverling
 *Legal Ground a, requesting a building pass*  
@@ -56,15 +56,19 @@ For some activities it is necessary to collect extra information to make sure th
 *Legal Ground a and b, corresponding obligations after explicit consent of person*  
 Because of the nature of some activities, which may or may not be based in part on the processing of personal details by third parties, in some cases personal details are shared with external parties. The personal details are only shared after explicit permission from the person concerned at the time of enrollment for the activity. The shared information is limited to the parts that are found to be strictly necessary for the concluded agreement.
 
-#### 3.3.4 Publication of Pictures of Activities
+#### 3.3.4 Request participants of activities by other members
+*Legal Ground f, internal promotion of activities*  
+A member of Inter-*Actief* can, on request at the board, see the list of names of participants that have enrolled for an activity. This is done so that the member can see if friends will be present at the activity, to better make their choice of going to the activity. This improves the promotion of activities within Inter-*Actief*. The information will only be shared after permission by the board, the shared information is limited to the names of the participants. The information is only available for direct inspection. 
+
+#### 3.3.5 Publication of Pictures of Activities
 *Legal Ground f, internal and external promotion of activities*  
 Pictures are made at almost all activities of Inter-*Actief*. The photographed people are not explicitly mentioned by name. The name of the photographer is shown with the pictures. The pictures are filtered by Inter-*Actief* and published publicly on the website. Pictures that contain contents that Inter-*Actief* does not want to show to external parties are only published internally (for logged in users) on the website. At the request of a person with a reasonable interest, a picture will be deleted from the website.
 
-#### 3.3.5 Storage of Purchase Data of (Former) Members
+#### 3.3.6 Storage of Purchase Data of (Former) Members
 *Legal Ground c, retention of financial records*  
 The tax authorities requires associations to keep their financial administration for 7 years according to the fiscal retention[<sup>3</sup>](#references). At Inter-*Actief* this includes, among other things, the membership fees, purchases in the cookie corner, purchases during drinks, enrollment costs for activities and debt collections that were issued.
 
-#### 3.3.6 Transfer of RFID-codes and Student and/or Employee Numbers to Alexia
+#### 3.3.7 Transfer of RFID-codes and Student and/or Employee Numbers to Alexia
 *Legal Ground f, postpay on drinks*  
 If a member of Inter-*Actief* has signed a consumption authorization with regard to collecting expenses at drinks, then these purchases need to be registered so that the incurred costs can be collected at a later date. For this purpose we use an internally developed system called Alexia. To register the purchases in this system we share the RFID-codes and student or employee numbers of the member with this application. The details of the data processing of this system are handled further in the privacy document of this application.
 
@@ -109,7 +113,7 @@ The names of the honorary members of Inter-*Actief* are publicly published on th
 The names of the members of merit of Inter-*Actief* are publicly published on the website in combination with a description why the member became a members of merit. Inter-*Actief* does this to remember her members of merit.
 
 ### 3.9 Other
-#### 3.9.1 Storage of personal details that were stored before the original date that this document came into effect (==TODO date==) in committee and/or association documents
+#### 3.9.1 Storage of personal details that were stored before the original date that this document came into effect (31-10-2019) in committee and/or association documents
 *Legal Ground f, existing archives*  
 (Far) before the AVG went into effect Inter-*Actief* stored all personal details that are used by committees. These personal details are (digitally) present on the committee drives of the corresponding committees. These documents were created before the AVG came into effect and are only used as reference documents. Because of the legality principle it is allowed to keep these documents unchanged. Next to that, it is a huge amount of work to anonymize all of these documents, so Inter-*Actief* will keep these documents as they are. Examples of this are secretarial yearly reports, documents for study trips and old almanacs.
 

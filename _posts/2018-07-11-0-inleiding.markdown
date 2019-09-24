@@ -1,0 +1,9 @@
+---
+title:  "Inleiding"
+categories: algemeen
+lang: nl
+---
+### Inleiding
+Dit is het privacydocument van Informatie- en Communicatietechnologische Studievereniging Inter-*Actief*. In dit document wordt uitgelegd welke (persoonlijke) gegevens opgeslagen of verwerkt worden door Inter-*Actief*, waarom dit wordt gedaan, welke rechten mensen hebben over deze gegevens, en welke verwerkingsactiviteiten Inter-*Actief* uitvoert op de opgeslagen gegevens. Ook wordt uitgelegd met welke derde partijen wij deze gegevens mogen delen en waarom, en hoe lang de gegevens bewaard blijven. 
+
+Dit alles is gedocumenteerd in overeenstemming met de Nederlandse Algemene Verordening Gegevensbescherming (AVG[<sup>2</sup>](#references)) en de Europese General Data Protection Regulation (GDPR[<sup>1</sup>](#references)).
