@@ -117,11 +117,11 @@ Wanneer een lid Inter-*Actief* toestemming geeft automatische incasso’s uit te
 
 #### 2.5.2 Machtiging(en) en amendement(en)
 *Rechtsgrond b, minimale uitvoering incasso-overeenkomst*  
-Naast de fysieke, ondertekende machtiging in de map, slaat Inter-*Actief* digitaal een referentie naar deze machtiging op. Daarnaast staat ook de ingangsdatum en eventuele afloopdatum vermeld. Ook worden amendementen (wijzigingen op deze machtigingen) opgeslagen. Dit zijn correcties op een machtiging (zoals een wijziging van rekeningnummer of foutieve naam). Deze worden opgeslagen omdat de amendementen moeten worden meegestuurd met de eerstvolgende incasso. Machtigingen en amendementen worden tot 14 maanden na het laatste gebruik of de beeindiging van het lidmaatschap bewaard in eigenbelang voor de vereniging, omdat er tot 14 maanden na gebruik nog bezwaar gemaakt kan worden op een incasso.
+Naast de fysieke, ondertekende machtiging in de map, slaat Inter-*Actief* digitaal een referentie naar deze machtiging op. Daarnaast staat ook de ingangsdatum en eventuele afloopdatum vermeld. Ook worden amendementen (wijzigingen op deze machtigingen) opgeslagen. Dit zijn correcties op een machtiging (zoals een wijziging van rekeningnummer of foutieve naam). Deze worden opgeslagen omdat de amendementen moeten worden meegestuurd met de eerstvolgende incasso. Machtigingen en amendementen worden tot 14 maanden na het laatste gebruik of de beëindiging van het lidmaatschap bewaard in eigenbelang voor de vereniging, omdat er tot 14 maanden na gebruik nog bezwaar gemaakt kan worden op een incasso.
 
 #### 2.5.3 Incasso('s), incassoinstructie(s) en terugboekingen
 *Rechtsgrond b, minimale uitvoering incasso-overeenkomst*  
-Voor het uitvoeren van incasso's en het bijhouden van onze financiële administratie slaat Inter-*Actief* alle incasso's, incassoinstructie(s) (regels op de incasso), en terugboekingen van transacties op in onze database. Deze gegevens zijn nodig voor de correcte financiële afhandeling van onze incasso-overeenkomst. De uitgevoerde incasso's, instructies en terugboekingen worden tot 7 jaar na uitvoering bewaard in onze database, omdat dit vereist wordt van van de Nederlandse wet[<sup>3</sup>](#referenties). Zie ook [3.3.5 Opslag van aankoopgegevens van (voormalig) leden](#335-opslag-van-aankoopgegevens-van-voormalig-leden).
+Voor het uitvoeren van incasso's en het bijhouden van onze financiële administratie slaat Inter-*Actief* alle incasso's, incassoinstructie(s) (regels op de incasso), en terugboekingen van transacties op in onze database. Deze gegevens zijn nodig voor de correcte financiële afhandeling van onze incasso-overeenkomst. De uitgevoerde incasso's, instructies en terugboekingen worden tot 7 jaar na uitvoering bewaard in onze database, omdat dit vereist wordt van de Nederlandse wet[<sup>3</sup>](#referenties). Zie ook [3.3.5 Opslag van aankoopgegevens van (voormalig) leden](#335-opslag-van-aankoopgegevens-van-voormalig-leden).
 
 
 ### 2.6 Overige voorkeuren van leden
@@ -144,7 +144,7 @@ Een persoon kan aangeven of de pasfoto gebruikt mag worden. Enkel wanneer een pe
 
 #### 2.6.5 Notificaties (SMS/push) ontvangen
 *Rechtsgrond a, ontvangen van notificaties*  
-Een persoon kan aangeven of deze notificaties wil ontvangen. Enkel wanneer een persoon expliciet aangeeft notificaties te willen ontvangen zal dit het geval zijn. SMS notificaties zullen enkel verstuurd worden naar personen waarvoor er toestemming is het telefoonnummer te verwerken, conform [*2.1.5 Telefoonnummer*](#215-telefoonnummer).
+Een persoon kan aangeven of deze notificaties wil ontvangen. Enkel wanneer een persoon expliciet aangeeft notificaties te willen ontvangen zal dit het geval zijn. SMS-notificaties zullen enkel verstuurd worden naar personen waarvoor er toestemming is het telefoonnummer te verwerken, conform [*2.1.5 Telefoonnummer*](#215-telefoonnummer).
 
 #### 2.6.6 Het verenigingsblad ontvangen
 *Rechtsgrond a, ontvangen van het verenigingsblad*  

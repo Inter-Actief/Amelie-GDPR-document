@@ -18,7 +18,7 @@ For members that have given permission to collect their incurred costs at Inter-
 If a purchase is made at Inter-*Actief*, and the member has not given permission to collect the incurred costs via a direct debit, Inter-*Actief* will send the member an invoice with the name and address of the member on it.
 
 #### 3.1.4 Transfer to Overleg Studieverenigingen
-*Rechtsgrond f, obtaining grants and scholarships*  
+*Legal Ground f, obtaining grants and scholarships*  
 Inter-*Actief* sometimes qualifies for grants and scholarships that are issued through the Overleg Studieverenigingen (Organisation of Study associations / OS). These are, for example, grants for participants of the study tour, or scholarships for committee members. For this, the OS sometimes requires personal details of the members that are involved with these activities, to verify that we are actually qualified. In most cases this concerns the names and student numbers of the participants or members. These details will therefore be shared with the Overleg Studieverenigingen.
 
 
@@ -105,12 +105,12 @@ The sale of (alcoholic) consumptions during drinks of Inter-*Actief* falls under
 ### 3.8 Honorary Members and Members of Merit
 #### 3.8.1 Publication of Names of Honorary Members and Reasons of Honorary Memberships
 *Legal Ground f, ‘honoring’ honorary members*  
-The names of the honorary members of Inter-*Actief* are publicly published on the website in combination with a description why the member became a honorary member. Inter-*Actief* does this to remember her honorary members.
+The names of the honorary members of Inter-*Actief* are publicly published on the website in combination with a description why the member became an honorary member. Inter-*Actief* does this to remember her honorary members.
 
 
 #### 3.8.2 Publication of Names of Members of Merit and Description of Merits
 *Legal Ground f, ‘honoring’ members of merit*  
-The names of the members of merit of Inter-*Actief* are publicly published on the website in combination with a description why the member became a members of merit. Inter-*Actief* does this to remember her members of merit.
+The names of the members of merit of Inter-*Actief* are publicly published on the website in combination with a description why the member became a member of merit. Inter-*Actief* does this to remember her members of merit.
 
 ### 3.9 Other
 #### 3.9.1 Storage of personal details that were stored before the original date that this document came into effect (31-10-2019) in committee and/or association documents

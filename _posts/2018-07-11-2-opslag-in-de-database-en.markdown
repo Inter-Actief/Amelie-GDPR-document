@@ -54,12 +54,12 @@ For communication with people, Inter-*Actief* makes use of various means, under 
 Inter-*Actief* saves if a member has an international background, to anonymously monitor the participation of international members in the association, and where necessary, improve it by specific policies. Registration of the internationality is voluntary.
 
 #### 2.1.10 E-mail address parent(s)/guardian(s)
-*Legal Ground a, invitation to parents day*  
-The e-mail address of the parent(s)/guardian(s) is used to invite them to the yearly parents' day that Inter-*Actief* organizes for the first year students and their parents. After filling in the details the parent(s)/guardian(s) are contacted to ask for their permission to process these details further. The details are removed if the parents' day has occurred or if the parent(s)/guardian(s) object to the storage of their personal details.
+*Legal Ground a, invitation to parents' day*  
+The e-mail address of the parent(s)/guardian(s) is used to invite them to the yearly parents' day that Inter-*Actief* organizes for the first-year students and their parents. After filling in the details the parent(s)/guardian(s) are contacted to ask for their permission to process these details further. The details are removed if the parents' day has occurred or if the parent(s)/guardian(s) object to the storage of their personal details.
 
 #### 2.1.11 Address, postal code, city and country of residence of parent(s)/guardian(s)
-*Legal Ground a, invitation to parents day*  
-The address details of the parent(s)/guardian(s) are used to invite them to the yearly parents' day that Inter-*Actief* organizes for the first year students and their parents. After filling in the details the parent(s)/guardian(s) are contacted to ask for their permission to process these details further. The details are removed if the parents' day has occurred or if the parent(s)/guardian(s) object to the storage of their personal details.
+*Legal Ground a, invitation to parents' day*  
+The address details of the parent(s)/guardian(s) are used to invite them to the yearly parents' day that Inter-*Actief* organizes for the first-year students and their parents. After filling in the details the parent(s)/guardian(s) are contacted to ask for their permission to process these details further. The details are removed if the parents' day has occurred or if the parent(s)/guardian(s) object to the storage of their personal details.
 
 #### 2.1.12 Shell
 *Legal Ground a, personalization of computer systems*  
@@ -75,7 +75,7 @@ Membership details of a specific member are necessary to keep track of by Inter-
 
 #### 2.1.15 Notes
 *Legal Ground f, track special data*  
-In some cases it is convenient that extra comments are saved about members. For example the comment that someone's e-mail address is not working or that a donor contribution is established.
+In some cases it is convenient that extra comments are saved about members. For example, the comment that someone's e-mail address is not working or that a donor contribution is established.
 
 
 ### 2.2 Student Administration
