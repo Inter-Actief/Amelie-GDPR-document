@@ -19,7 +19,7 @@ Als een aankoop gedaan wordt bij Inter-*Actief* en er geen toestemming is gegeve
 
 #### 3.1.4 Doorgifte aan Overleg Studieverenigingen
 *Rechtsgrond f, verkrijging van subsidie en beurzen*  
-Inter-*Actief* komt soms in aanmerking voor subsidies en beurzen die uitgegeven worden via het Overleg Studieverenigingen (OS). Dit zijn bijvoorbeeld subsidies voor studiereisdeelnemers, of beurzen voor commissieleden. Hiervoor heeft het OS soms persoonsgegevens nodig van de de leden die betrokken zijn bij deze activiteiten, met het doel om te kunnen verifiëren dat we daadwerkelijk in aanmerking komen. In de meeste gevallen gaat het hier om namen en studentnummers van de deelnemers of leden. Deze gegevens zullen dan ook worden gedeeld met het Overleg Studieverenigingen.
+Inter-*Actief* komt soms in aanmerking voor subsidies en beurzen die uitgegeven worden via het Overleg Studieverenigingen (OS). Dit zijn bijvoorbeeld subsidies voor studiereisdeelnemers, of beurzen voor commissieleden. Hiervoor heeft het OS soms persoonsgegevens nodig van de leden die betrokken zijn bij deze activiteiten, met het doel om te kunnen verifiëren dat we daadwerkelijk in aanmerking komen. In de meeste gevallen gaat het hier om namen en studentnummers van de deelnemers of leden. Deze gegevens zullen dan ook worden gedeeld met het Overleg Studieverenigingen.
 
 
 ### 3.2 Bestuurs- en commissiewerk
@@ -70,7 +70,7 @@ De belastingdienst verplicht verenigingen om hun financiële administratie 7 jaa
 
 #### 3.3.7 Doorgifte RFID-codes en student- en/of medewerkersnummers aan Alexia
 *Rechtsgrond f, achteraf betalen borrels*  
-Als een lid van Inter-*Actief* een consumptiemachtiging heeft afgesloten met betrekking tot het incasseren van uitgaven bij borrels dan moeten deze aankopen geregistreerd worden zodat de kosten achteraf kunnen worden geincasseerd. Voor dit doel gebruiken wij het zelfontwikkelde systeem Alexia. Om hier de aankopen in te registreren geven wij de RFID-codes en student- of medewerkersnummers van het lid door aan deze applicatie. Verwerking van deze gegevens wordt verder afgehandeld in het privacydocument van deze applicatie.
+Als een lid van Inter-*Actief* een consumptiemachtiging heeft afgesloten met betrekking tot het incasseren van uitgaven bij borrels dan moeten deze aankopen geregistreerd worden zodat de kosten achteraf kunnen worden geïncasseerd. Voor dit doel gebruiken wij het zelfontwikkelde systeem Alexia. Om hier de aankopen in te registreren geven wij de RFID-codes en student- of medewerkersnummers van het lid door aan deze applicatie. Verwerking van deze gegevens wordt verder afgehandeld in het privacydocument van deze applicatie.
 
 
 ### 3.4 De doelen van Inter-*Actief*
@@ -115,7 +115,7 @@ De naam van de leden van verdienste van Inter-*Actief* worden publiek op de webs
 ### 3.9 Overige
 #### 3.9.1 Opslag van persoonsgegevens die voor de originele ingangsdatum van dit document (31-10-2019) in commissie- en/of verenigingsdocumenten terecht zijn gekomen
 *Rechtsgrond f, reeds aanwezig archief*  
-(Ver) voor het ingaan van de AVG heeft Inter-*Actief* alle persoonsgegevens die gebruikt zijn door commissies opgeslagen. Deze persoonsgegevens zijn (digitaal) aanwezig op de commissieschijven van de desbetreffende commissies. Deze documenten zijn aangemaakt voordat de AVG van kracht werd en worden uitsluitend als naslagwerk gebruikt. Vanwege het legaliteisbeginsel mogen deze documenten daarom ongewijzigd blijven bestaan. Daarnaast kost het buitenproportioneel veel werk om deze documenten allemaal te anonimiseren, dus Inter-*Actief* laat deze documenten ook daarom staan. Voorbeelden hiervan zijn secretarieel jaarverslagen, documenten voor studiereizen en almanakken.
+(Ver) voor het ingaan van de AVG heeft Inter-*Actief* alle persoonsgegevens die gebruikt zijn door commissies opgeslagen. Deze persoonsgegevens zijn (digitaal) aanwezig op de commissieschijven van de desbetreffende commissies. Deze documenten zijn aangemaakt voordat de AVG van kracht werd en worden uitsluitend als naslagwerk gebruikt. Vanwege het legaliteitsbeginsel mogen deze documenten daarom ongewijzigd blijven bestaan. Daarnaast kost het buitenproportioneel veel werk om deze documenten allemaal te anonimiseren, dus Inter-*Actief* laat deze documenten ook daarom staan. Voorbeelden hiervan zijn secretarieel jaarverslagen, documenten voor studiereizen en almanakken.
 
 #### 3.9.2 Ledendatabasecontrolemails sturen
 *Rechtsgrond f, jaarlijkse controle van persoonsgegevens*  
@@ -142,9 +142,9 @@ Veel van onze computersystemen en applicaties houden foutmeldingslogboeken bij, 
 *Rechtsgrond a, expliciete toestemming van persoon*  
 Bij Inter-*Actief* is het mogelijk om als actief lid coderepositories te uploaden naar ons versiebeheerprogramma. Deze repositories kunnen vallen onder een commissie, of onder een persoonlijk account. Door een repository te uploaden wordt expliciete toestemming gegeven voor de verwerking van deze gegevens.
 
-#### 3.10.6 Backups van persoonlijke bestanden en verenigingsbestanden
+#### 3.10.6 Back-ups van persoonlijke bestanden en verenigingsbestanden
 *Rechtsgrond f, (nood)herstel computersystemen en gegevens*  
-Bij Inter-*Actief* worden regelmatig backups gemaakt van alle bestanden, databanken, en overige gegevens die op onze computersystemen aanwezig zijn. Deze backups bevatten mogelijk persoonlijke gegevens. De backups worden gemaakt om in geval van nood deze gegevens terug te kunnen zetten. Backups worden maximaal een jaar bewaard.
+Bij Inter-*Actief* worden regelmatig back-ups gemaakt van alle bestanden, databanken, en overige gegevens die op onze computersystemen aanwezig zijn. Deze back-ups bevatten mogelijk persoonlijke gegevens. De back-ups worden gemaakt om in geval van nood deze gegevens terug te kunnen zetten. Back-ups worden maximaal een jaar bewaard.
 
 #### 3.10.7 Commissieapplicatie(s)
 *Rechtsgrond a, expliciete toestemming persoon*  
