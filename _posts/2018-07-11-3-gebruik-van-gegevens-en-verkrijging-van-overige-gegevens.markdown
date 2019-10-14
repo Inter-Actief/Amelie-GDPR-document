@@ -98,7 +98,7 @@ Van belangrijke vergaderingen bij Inter-*Actief* worden notulen gehouden. Bij so
 Van personen die schrijven voor de verschillende verenigingspublicaties worden naam en foto geregistreerd en, in sommige gevallen, gepubliceerd. Dit doet Inter-*Actief* om zowel de auteurs van geschreven stukken publiekelijk te erkennen als een mooie grafische indeling te maken.
 
 ### 3.7 Wettelijke verplichtingen
-#### 3.7.1 Doorgifte van gegevens aan de Gemeente Enschede in het kader van de horeacavergunning
+#### 3.7.1 Doorgifte van gegevens aan de Gemeente Enschede in het kader van de horecavergunning
 *Rechtsgrond c, handhaven horecavergunning*  
 De verkoop van drank tijdens borrels van Inter-*Actief* valt onder de horecavergunning van de UT. Voor de vergunning moeten alle actieve tappers die tappen in een horecagelegenheid de geboortedatum en naam doorgeven aan de Gemeente Enschede. De geboortedatum, voor- en achternaam van de tappers worden door Inter-*Actief* doorgegeven aan het Overleg Studieverenigingen (OS). Het OS geeft deze gegevens vervolgens weer door aan de Gemeente Enschede.
 
