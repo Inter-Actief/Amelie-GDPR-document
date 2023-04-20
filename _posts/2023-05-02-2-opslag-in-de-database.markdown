@@ -27,22 +27,26 @@ Als laatste zal dit communicatiemiddel worden gebruikt voor communicatie waarbij
 *Rechtsgrond b, minimale uitvoering lidmaatschapsovereenkomst*  
 Mocht het primaire correspondentiemailadres niet beschikbaar zijn, dan gebruikt Inter-*Actief* het postadres van haar leden. Het postadres wordt daarom opgeslagen door Inter-*Actief*.
 
+*Rechtsgrond a, verenigingsblad ontvangen*  
+Het postadres wordt ook gebruikt om het verenigingsblad naartoe te sturen, indien een persoon daar expliciet toestemming voor heeft gegeven.
+
 #### 2.1.5 Telefoonnummer
 *Rechtsgrond a, vrijwillige registratie contactgegevens*  
-Binnen de vereniging kunnen telefoonnummers worden gebruikt om snel contact te leggen tussen personen. Commissieleden beschikken om deze reden over elkaars telefoonnummer, mits deze geregistreerd is. Daarnaast kan een telefoonnummer worden gebruikt voor directe (gepersonaliseerde) communicatie via SMS. Registratie van een telefoonnummer is vrijwillig.
+Binnen de vereniging kunnen telefoonnummers worden gebruikt om snel contact te leggen tussen personen. Commissieleden beschikken om deze reden over elkaars telefoonnummer, mits deze geregistreerd is. Registratie van een telefoonnummer is vrijwillig.
 
 #### 2.1.6 Geboortedatum
 *Rechtsgrond c, naleving minimumleeftijd online diensten*  
 Elk persoon die wenst de online diensten van Inter-*Actief* te gebruiken moet ten minste de leeftijd van zestien hebben bereikt, conform de wettelijke voorschriften. Inter-*Actief* gebruikt de geboortedatum van een persoon om te bepalen of deze de minimumleeftijd reeds heeft bereikt.
 
-*Rechtsgrond f, naleving alcoholregelement*
+*Rechtsgrond f, naleving alcoholregelement*  
 Bij activiteiten van Inter-*Actief* waar Inter-*Actief* alcoholische consumpties verkoopt aan haar leden is het verboden om deze dranken te verkopen aan leden die nog geen 18 jaar oud zijn. Om goed duidelijk te hebben welk lid nog geen 18 jaar oud is houdt Inter-*Actief* een lijst bij waar de verjaardagen van deze leden op staan.
 
-*Rechtsgrond a, verjaardagsgerelateerde activiteiten*
-Ook verstuurt Inter-*Actief* een verjaardagsbericht naar haar leden indien hier toestemming voor gegeven is. Tevens wordt de verjaardag van een lid gepubliceerd op de website van Inter-*Actief* voor ingelogde gebruikers mits het lid daar toestemming voor heeft gegeven.
+*Rechtsgrond a, verjaardagsgerelateerde activiteiten*  
+Ook verstuurt Inter-*Actief* een verjaardagsbericht naar haar leden indien hier toestemming voor gegeven is. Tevens wordt de verjaardag van een lid gepubliceerd op de website van Inter-*Actief* voor ingelogde gebruikers en rondom de verenigingkamer, mits het lid daar toestemming voor heeft gegeven.
 
 #### 2.1.7 Pasfoto
-*Rechtsgrond a, 18+\-lijst, proﬁelfoto’s op website en publicatie in jaarboeken*  
+
+*Rechtsgrond a, 18-minlijst, profielfoto’s op website en publicatie in jaarboeken*  
 Als hulpmiddel voor organisatoren en ondersteunende leden wordt een lijst met  namen en foto's bijgehouden van leden onder de 18 jaar. Daarnaast worden de pasfoto's van alle leden gebruikt door het bestuur als hulpmiddel voor persoonsidentificatie. Pasfoto's van leden kunnen tevens worden gepubliceerd in jaarboeken, mits hiervoor toestemming is gegeven door het lid.
 
 #### 2.1.8 Voorkeurstaal
@@ -123,29 +127,6 @@ Naast de fysieke, ondertekende machtiging in de map, slaat Inter-*Actief* digita
 *Rechtsgrond b, minimale uitvoering incasso-overeenkomst*  
 Voor het uitvoeren van incasso's en het bijhouden van onze financiële administratie slaat Inter-*Actief* alle incasso's, incassoinstructie(s) (regels op de incasso), en terugboekingen van transacties op in onze database. Deze gegevens zijn nodig voor de correcte financiële afhandeling van onze incasso-overeenkomst. De uitgevoerde incasso's, instructies en terugboekingen worden tot 7 jaar na uitvoering bewaard in onze database, omdat dit vereist wordt van de Nederlandse wet[<sup>3</sup>](#referenties). Zie ook [3.3.5 Opslag van aankoopgegevens van (voormalig) leden](#335-opslag-van-aankoopgegevens-van-voormalig-leden).
 
-
-### 2.6 Overige voorkeuren van leden
-
-#### 2.6.1 Weekmail ontvangen
-*Rechtsgrond a, ontvangen van de weekmail*  
-Een persoon kan aangeven of deze weekmails wil ontvangen. Enkel wanneer een persoon expliciet aangeeft weekmails te willen ontvangen zal dit het geval zijn.
-
-#### 2.6.2 Bedrijfsmailingen ontvangen
-*Rechtsgrond a, ontvangen van bedrijfsmailingen*  
-Een persoon kan aangeven of deze bedrijfsmailingen wil ontvangen. Enkel wanneer een persoon expliciet aangeeft bedrijfsmailingen te willen ontvangen zal dit het geval zijn.
-
-#### 2.6.3 Mastermail ontvangen
-*Rechtsgrond a, ontvangen van de mastermail*  
-Een persoon kan aangeven of deze mastermails wil ontvangen. Enkel wanneer een persoon expliciet aangeeft mastermail te willen ontvangen zal dit het geval zijn.
-
-#### 2.6.4 Fotogebruik in het jaarboek en op de website
-*Rechtsgrond a, gebruik van de pasfoto*  
-Een persoon kan aangeven of de pasfoto gebruikt mag worden. Enkel wanneer een persoon expliciet aangeeft dat de pasfoto gebruikt mag worden zal dit het geval zijn.
-
-#### 2.6.5 Notificaties (SMS/push) ontvangen
-*Rechtsgrond a, ontvangen van notificaties*  
-Een persoon kan aangeven of deze notificaties wil ontvangen. Enkel wanneer een persoon expliciet aangeeft notificaties te willen ontvangen zal dit het geval zijn. SMS-notificaties zullen enkel verstuurd worden naar personen waarvoor er toestemming is het telefoonnummer te verwerken, conform [*2.1.5 Telefoonnummer*](#215-telefoonnummer).
-
-#### 2.6.6 Het verenigingsblad ontvangen
-*Rechtsgrond a, ontvangen van het verenigingsblad*  
-Een persoon kan aangeven of deze het verenigingsblad wil ontvangen. Enkel wanneer een persoon expliciet aangeeft het verenigingsblad te willen ontvangen zal dit het geval zijn.
+#### 2.5.4 Voorkeuren van leden
+*Rechtsgrond a, toepassen van voorkeuren van leden*  
+Voor het toepassen en het uitvoeren van handelingen aan de hand van voorkeuren van leden worden de voorkeuren van leden opgeslagen. Aan de hand van deze voorkeuren wordt bepaald of bijvoorbeeld e-mails worden verstuurd naar leden of het verenigingsblad wordt verstuurd naar leden. Zie ook [2.1.3 E-mailadres](#213-e-mailadres), [2.1.4 Adres, postcode, woonplaats en land](#214-adres-postcode-woonplaats-en-land) en [2.1.6 Geboortedatum](#216-geboortedatum).

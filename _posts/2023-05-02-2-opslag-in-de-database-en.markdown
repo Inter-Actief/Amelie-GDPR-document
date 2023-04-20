@@ -27,9 +27,12 @@ Lastly, this means of communication is used for communication for which the inte
 *Legal Ground b, minimal execution membership agreement*  
 In the case that the primary correspondence mail address is unavailable, Inter-*Actief* uses the mailing address of the members. The mailing address is therefore saved by Inter-*Actief*.
 
+*Legal Ground a, receive association magazine*  
+The postal address is also used to send the association magazine to, if a person has given explicit permission for this.
+
 #### 2.1.5 Telephone Number
 *Legal Ground a, voluntary registration contact details*  
-Phone numbers can be used within the association to quickly make contact between persons. Committee members have access to the telephone numbers of their fellow committee members, if these are registered. Furthermore, a phone number can be used for direct (personalized) communication via SMS. Registration of a telephone number is voluntary.
+Phone numbers can be used within the association to quickly make contact between persons. Committee members have access to the telephone numbers of their fellow committee members, if these are registered. Registration of a telephone number is voluntary.
 
 #### 2.1.6 Date of Birth
 *Legal Ground c, compliance with minimum age requirements for online services*  
@@ -39,10 +42,10 @@ Every person that wishes to use the online services of Inter-*Actief* has to be 
 At activities of Inter-*Actief* where alcoholic consumptions are being sold to its members, it is forbidden to sell these consumptions to members that are under 18 years old. To clarify which members are underage, Inter-*Actief* maintains a list of birthdays of these members.
 
 *Legal ground a, birthday-related activities*
-Inter-*Actief* also sends a birthday message to her members if the member has given permission for this. The birthday of the member is also published on the website of Inter-*Actief* for other logged in members, if the member has given permission to do so.
+Inter-*Actief* also sends a birthday message to her members if the member has given permission for this. The birthday of the member is also published on the website of Inter-*Actief* for other logged in members and around the association room, if the member has given permission to do so.
 
 #### 2.1.7 Photograph
-*Legal Ground a, 18+\-list, profile pictures on website and publication in year books*  
+*Legal Ground a, underage\-list, profile pictures on website and publication in year books*  
 As a tool for organizers and supporting members, a list with names and pictures of underage members is maintained. Furthermore, the pictures of our members are used by the board as a tool to identify people. Pictures of members can also be published in yearbooks, if the member has given permission for this.
 
 #### 2.1.8 Preferred Language
@@ -123,29 +126,6 @@ Next to the physical signed authorization in the binder, Inter-*Actief* saves a 
 *Legal Ground b, minimal execution debt collection agreement*  
 To execute debt collections and keep track of our financial administration, Inter-*Actief* saves all debt collections, debt collection instruction(s) (entries in a debt collection), and reversals of transactions, in our database. These details are necessary for the correct financial settlement of our debt collection agreement. The executed debt collections, their instructions and the reversals are saved in our database for 7 years after execution, because this is required by the Dutch law[<sup>3</sup>](#references). See also [3.3.5 Storage of Purchase Data of (Former) Members](#335-storage-of-purchase-data-of-former-members).
 
-
-### 2.6 Other preferences of members
-
-#### 2.6.1 Receive Weekly Mails
-*Legal Ground a, receiving the weekly mailings*  
-A person can indicate if they want to receive the weekly mailings. Only when a person explicitly indicates that they want to receive these mailings, they will actually be sent.
-
-#### 2.6.2 Receive Company Mailings
-*Legal Ground a, receiving company mailings*  
-A person can indicate if they want to receive the company mailings. Only when a person explicitly indicates that they want to receive these mailings, they will actually be sent.
-
-#### 2.6.3 Receive Master Mails
-*Legal Ground a, receiving the master mailings*  
-A person can indicate if they want to receive the master mailings. Only when a person explicitly indicates that they want to receive these mailings, they will actually be sent.
-
-#### 2.6.4 Picture use in the yearbook and on the website
-*Legal Ground a, usage of profile picture*  
-A person can indicate if their profile picture may be used. Only if a person explicitly indicates that their profile picture may be used it will actually be used.
-
-#### 2.6.5 Receiving Notifications (SMS/push)
-*Legal Ground a, receiving notifications*  
-A person can indicate if they want to receive notifications. Only when a person explicitly indicates that they want to receive notifications, they will actually receive them. SMS notifications will only be sent to persons who give permission to process their telephone number, in accordance with [*2.1.5 Telephone Number*](#215-telephone-number).
-
-#### 2.6.6 Receiving the Association Magazine
-*Legal Ground a, receiving the association magazine*  
-A person can indicate if they want to receive the association magazine. Only when a person explicitly indicates that they want to receive the association magazine, they will actually receive it.
+#### 2.5.4 Members' Preferences
+*Legal Ground a, application of members' preferences*  
+For applying and performing actions based on members' preferences, the preferences of members are saved. Based on these preferences, it is determined whether, for example, e-mails are sent to members or the association magazine is sent to members. Also see [2.1.3 E-mail address](#213-e-mail-address), [2.1.4 Address, postal code, city and country of residence](#214-address-postal-code-city-and-country-of-residence) and [2.1.6 Date of Birth](#216-date-of-birth).
