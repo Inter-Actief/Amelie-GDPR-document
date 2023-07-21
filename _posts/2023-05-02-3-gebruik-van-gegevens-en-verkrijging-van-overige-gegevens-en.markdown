@@ -21,6 +21,9 @@ If a purchase is made at Inter-*Actief*, and the member has not given permission
 *Legal Ground f, obtaining grants and scholarships*  
 Inter-*Actief* sometimes qualifies for grants and scholarships that are issued through the Overleg Studieverenigingen (Organisation of Study associations / OS). These are, for example, grants for participants of the study tour, or scholarships for committee members. For this, the OS sometimes requires personal details of the members that are involved with these activities, to verify that we are actually qualified. In most cases this concerns the names and student numbers of the participants or members. These details will therefore be shared with the Overleg Studieverenigingen.
 
+#### 3.1.5 Transfer to Exact
+*Legal Ground f, keeping digital financial accounts*  
+Inter-*Actief* keeps its accounts in Exact Online. In case members make declarations or receive invoices, the first and last names and bank account numbers of these members will be stored in Exact Online. The declarations and invoices themselves will also be stored, including the personal data stated therein. For the benefit of the financial administration, the names of the committees on whose behalf the declarants declare their expenses are recorded in the declarations.
 
 ### 3.2 Board and Committee Work
 Every member that voluntarily decides to join a committee grants permission to process their personal details for the purposes of that committee, described in paragraphs [2.1](#21-membership-administration), [2.4](#24-active-members-administration), [3.2](#32-board-and-committee-work), [3.3](#33-processing-of-purchases-and-activities), [3.5](#35-meetings), [3.6](#36-collection-of-personal-details-by-committees), [3.7](#37-legal-requirements) and [3.9](#39-other).
@@ -41,37 +44,31 @@ If a member needs a building pass for the Zilverling, then Inter-*Actief* will r
 *Legal Ground f, recognizing (former) board members*  
 Over the years a lot of members have taken place in the board of Inter-*Actief*. Inter-*Actief* is grateful to her former boards and current board. For this reason, in combination with the preservation of the history of the association, the former boards are published on the website.
 
-
 ### 3.3 Processing of Purchases and Activities
 
-#### 3.3.1 Confirmation E-mails for Enrollment and Unenrollment for Internal Activities
-*Legal Ground f, informing members with regard to activities*  
-While enrolling and unenrolling for internal activities by members of Inter-*Actief*, the person concerned receives a confirmation e-mail to (if required) prove to the organization that they (un)enrolled for the activity. For this, Inter-*Actief* uses the e-mail address of the member.
-
-#### 3.3.2 Enrollment Forms for Activities
+#### 3.3.1 Enrollment Forms for Activities
 *Legal Ground a, execution of activities*  
 For some activities it is necessary to collect extra information to make sure the activity runs smoothly. This information is only used for the execution and settlement of that activity and is removed afterwards.
 
-#### 3.3.3 Transfer of Personal Details to Third Parties Due to the Nature of Activities
+#### 3.3.2 Transfer of Personal Details to Third Parties Due to the Nature of Activities
 *Legal Ground a and b, corresponding obligations after explicit consent of person*  
 Because of the nature of some activities, which may or may not be based in part on the processing of personal details by third parties, in some cases personal details are shared with external parties. The personal details are only shared after explicit permission from the person concerned at the time of enrollment for the activity. The shared information is limited to the parts that are found to be strictly necessary for the concluded agreement.
 
-#### 3.3.4 Request participants of activities by other members
+#### 3.3.3 Request participants of activities by other members
 *Legal Ground f, internal promotion of activities*  
 A member of Inter-*Actief* can, on request at the board, see the list of names of participants that have enrolled for an activity. This is done so that the member can see if friends will be present at the activity, to better make their choice of going to the activity. This improves the promotion of activities within Inter-*Actief*. The information will only be shared after permission by the board, the shared information is limited to the names of the participants. The information is only available for direct inspection. 
 
-#### 3.3.5 Publication of Pictures of Activities
+#### 3.3.4 Publication of Pictures of Activities
 *Legal Ground f, internal and external promotion of activities*  
 Pictures are made at almost all activities of Inter-*Actief*. The photographed people are not explicitly mentioned by name. The name of the photographer is shown with the pictures. The pictures are filtered by Inter-*Actief* and published publicly on the website. Pictures that contain contents that Inter-*Actief* does not want to show to external parties are only published internally (for logged in users) on the website. At the request of a person with a reasonable interest, a picture will be deleted from the website.
 
-#### 3.3.6 Storage of Purchase Data of (Former) Members
+#### 3.3.5 Storage of Purchase Data of (Former) Members
 *Legal Ground c, retention of financial records*  
 The tax authorities requires associations to keep their financial administration for 7 years according to the fiscal retention[<sup>3</sup>](#references). At Inter-*Actief* this includes, among other things, the membership fees, purchases in the cookie corner, purchases during drinks, enrollment costs for activities and debt collections that were issued.
 
-#### 3.3.7 Transfer of RFID-codes and Student and/or Employee Numbers to Alexia
+#### 3.3.6 Transfer of RFID-codes and Student and/or Employee Numbers to Alexia
 *Legal Ground f, postpay on drinks*  
 If a member of Inter-*Actief* has signed a consumption authorization with regard to collecting expenses at drinks, then these purchases need to be registered so that the incurred costs can be collected at a later date. For this purpose we use an internally developed system called Alexia. To register the purchases in this system we share the RFID-codes and student or employee numbers of the member with this application. The details of the data processing of this system are handled further in the privacy document of this application.
-
 
 ### 3.4 The Goals of Inter-*Actief*
 
@@ -127,8 +124,8 @@ When the memberships are prolonged, members are sent a membership database check
 Inter-*Actief* offers an application programming interface. Using this interface, applications can gain access to the personal details of a person saved in the systems of the association. Permission for the processing of these personal details by the applications is given explicitly by the person, by using the application. This permission can always be immediately revoked via the website of the association.
 
 #### 3.10.2 Inter-*Actief* Wiki
-*Legal Ground a, association documentation*  
-Documentation about the processes within the association is saved on the wiki of Inter-*Actief*. The names of the authors of pages and changes to these pages are saved in the change logs of each page on the wiki. For this, permission is granted explicitly when saving the (change to a) page.
+*Legal Ground f, association documentation*  
+Documentation about the processes within the association is saved on the wiki of Inter-*Actief*. The names of the authors of pages and changes to these pages are saved in the change logs of each page on the wiki.
 
 #### 3.10.3 Processing Logs
 *Legal Ground f, error recovery and privacy assurance*  
@@ -144,7 +141,7 @@ It is possible for active members to upload code repositories to the version con
 
 #### 3.10.6 Backups of Personal Files and Association Files
 *Legal Ground f, (emergency) recovery of computer systems and data*  
-Inter-*Actief* makes regular backups of all files, databases, and other data stored on our computer systems. These backups might contain personal details. The backups are made to retrieve and revert the data in the event of an emergency. Backups of files are kept for up to one year.
+Inter-*Actief* makes regular backups of all files, databases, and other data stored on our computer systems. These backups might contain personal details. The backups are made to retrieve and revert the data in the event of an emergency. These backups are shared encrypted with Backblaze (<a href="https://www.backblaze.com">https://www.backblaze.com</a>), and are stored in Europe. Inter-*Actief* has concluded a processing agreement with Backblaze for this processing of data. Backups of files are kept for up to one year.
 
 #### 3.10.7 Committee Application(s)
 *Legal Ground a, explicit permission of person*  

@@ -21,6 +21,9 @@ Als een aankoop gedaan wordt bij Inter-*Actief* en er geen toestemming is gegeve
 *Rechtsgrond f, verkrijging van subsidie en beurzen*  
 Inter-*Actief* komt soms in aanmerking voor subsidies en beurzen die uitgegeven worden via het Overleg Studieverenigingen (OS). Dit zijn bijvoorbeeld subsidies voor studiereisdeelnemers, of beurzen voor commissieleden. Hiervoor heeft het OS soms persoonsgegevens nodig van de leden die betrokken zijn bij deze activiteiten, met het doel om te kunnen verifiëren dat we daadwerkelijk in aanmerking komen. In de meeste gevallen gaat het hier om namen en studentnummers van de deelnemers of leden. Deze gegevens zullen dan ook worden gedeeld met het Overleg Studieverenigingen.
 
+#### 3.1.5 Doorgifte aan Exact
+*Rechtsgrond f, bijhouden van een digitale financiële boekhouding*  
+Inter-*Actief* houdt haar boekhouding bij in Exact Online. In het geval leden declaraties doen of facturen ontvangen, zullen van deze leden de voor- en achternamen en de bankrekeningnummers opgeslagen worden in Exact Online. Ook zullen de declaraties en de facturen zelf worden opgeslagen, inclusief de persoonsgegevens die hierin worden vermeld. Ten behoeve van de administratie van de financiën, worden de namen van de commissies namens wie de declaranten hun uitgaven declareren vastgelegd in de declaraties.
 
 ### 3.2 Bestuurs- en commissiewerk
 Elk lid die vrijwillig besluit toe te treden tot een commissie geeft daarmee expliciete toestemming om hun persoonsgegevens te laten verwerken voor de doelen van deze commissie, beschreven in paragrafen [2.1](#21-ledenadministratie), [2.4](#24-actieve-ledenadministratie), [3.2](#32-bestuurs--en-commissiewerk), [3.3](#33-verwerking-aankopen-en-activiteiten), [3.5](#35-vergaderingen), [3.6](#36-vergaring-van-persoonsgegevens-door-commissies), [3.7](#37-wettelijke-verplichtingen) en [3.9](#39-overige).
@@ -41,34 +44,29 @@ Mocht een lid een gebouwpas nodig hebben voor de Zilverling, dan vraagt Inter-*A
 *Rechtsgrond f, herkenbaarheid (oud-)bestuurders*  
 Door de jaren heen hebben vele mensen plaats genomen in het bestuur der Inter-*Actief*. Inter-*Actief* is haar oud-besturen en huidige bestuur dankbaar. Het is daarom, in combinatie met het behoud van de geschiedenis van de vereniging, dat de oud-besturen gepubliceerd worden op de website.
 
-
 ### 3.3 Verwerking aankopen en activiteiten
 
-#### 3.3.1 Bevestigingsmails inschrijven en uitschrijven interne activiteiten
-*Rechtsgrond f, informeren leden ten behoeven van activiteiten*  
-Bij in- en uitschrijving van interne activiteiten door leden van Inter-*Actief* krijgt de desbetreffende persoon een bevestiging per mail om later een eventuele in- en uitschrijving aan te kunnen tonen bij organisatoren. Hiervoor gebruikt Inter-*Actief* het mailadres van het lid.
-
-#### 3.3.2 Inschrijfformulieren voor activiteiten
+#### 3.3.1 Inschrijfformulieren voor activiteiten
 *Rechtsgrond a, uitvoering activiteiten*  
 Bij sommige activiteiten is extra informatie nodig om de activiteit goed te laten verlopen. Deze gegevens worden slechts gebruikt voor de uitvoering en de afhandeling van deze activiteit en worden daarna verwijderd.
 
-#### 3.3.3 Doorgifte persoonsgegevens aan derden vanwege de aard van activiteiten
+#### 3.3.2 Doorgifte persoonsgegevens aan derden vanwege de aard van activiteiten
 *Rechtsgrond a en b, overeenkomstige verplichtingen na expliciete toestemming persoon*  
 Vanwege de aard van sommige activiteiten, die al dan niet gedeeltelijk berusten op de verwerking van persoonsgegevens door derden, worden in bepaalde gevallen deze persoonsgegevens gedeeld met externe partijen. Deze persoonsgegevens worden slechts gedeeld na expliciete toestemming van de persoon ten tijde van inschrijving voor de activiteit. De gedeelde informatie zal worden beperkt tot datgene wat strikt noodzakelijk wordt bevonden voor de afgesloten overeenkomst.
 
-#### 3.3.4 Opvragen deelnemers van activiteiten door andere leden
+#### 3.3.3 Opvragen deelnemers van activiteiten door andere leden
 *Rechtsgrond f, interne promotie van activiteiten*  
 Een lid van Inter-*Actief* mag op verzoek bij het bestuur de lijst met namen van personen inzien die ingeschreven staan voor een activiteit. Dit wordt gedaan zodat het lid kan zien of er bekenden aanwezig zullen zijn, en zo zijn beslissing om naar de activiteit te komen beter kan maken. Dit bevordert de promotie van activiteiten binnen Inter-*Actief*. De gegevens worden alleen gedeeld na toestemming van het bestuur, de gedeelde informatie wordt beperkt tot de namen van de ingeschreven personen.
 
-#### 3.3.5 Publicatie van foto’s van activiteiten
+#### 3.3.4 Publicatie van foto’s van activiteiten
 *Rechtsgrond f, interne en externe promotie van activiteiten*  
 Bij bijna alle activiteiten van Inter-*Actief* worden foto’s gemaakt. De gefotografeerde personen worden niet expliciet bij naam genoemd. De naam van de fotograaf wordt bij de foto's genoemd. De foto’s worden gefilterd door Inter-*Actief* en publiek op de website gezet. Foto’s die iets laten zien dat Inter-*Actief* niet wil tonen aan externen worden afgeschermd gepubliceerd op de website. Op verzoek van een persoon met een redelijk belang wordt een foto van de website verwijderd.
 
-#### 3.3.6 Opslag van aankoopgegevens van (voormalig) leden
+#### 3.3.5 Opslag van aankoopgegevens van (voormalig) leden
 *Rechtsgrond c, bewaarplicht financiële administratie*  
 De belastingdienst verplicht verenigingen om hun financiële administratie 7 jaar lang te bewaren volgens de fiscale bewaarplicht[<sup>3</sup>](#referenties). Hieronder vallen bij Inter-*Actief* onder andere de lidmaatschapskosten, aankopen in de streeplijst, aankopen op borrels, inschrijfkosten voor activiteiten en uitgevoerde incasso's.
 
-#### 3.3.7 Doorgifte RFID-codes en student- en/of medewerkersnummers aan Alexia
+#### 3.3.6 Doorgifte RFID-codes en student- en/of medewerkersnummers aan Alexia
 *Rechtsgrond f, achteraf betalen borrels*  
 Als een lid van Inter-*Actief* een consumptiemachtiging heeft afgesloten met betrekking tot het incasseren van uitgaven bij borrels dan moeten deze aankopen geregistreerd worden zodat de kosten achteraf kunnen worden geïncasseerd. Voor dit doel gebruiken wij het zelfontwikkelde systeem Alexia. Om hier de aankopen in te registreren geven wij de RFID-codes en student- of medewerkersnummers van het lid door aan deze applicatie. Verwerking van deze gegevens wordt verder afgehandeld in het privacydocument van deze applicatie.
 
@@ -127,8 +125,8 @@ Bij de verlenging van een lidmaatschap worden ledendatabasecontrolemails verstuu
 Inter-*Actief* stelt een programmeerinterface beschikbaar. Via deze interface kunnen applicaties toegang krijgen tot de persoonsgegevens van een persoon die opgeslagen zijn in systemen van de vereniging. Toestemming voor de verwerking van persoonsgegevens door deze applicaties wordt expliciet gegeven door de persoon bij gebruik van de applicatie en kan op elk moment worden ingetrokken via de website van de vereniging.
 
 #### 3.10.2 Inter-*Actief* Wiki
-*Rechtsgrond a, verenigingsdocumentatie*  
-Op de wiki van Inter-*Actief* wordt documentatie opgeslagen over processen binnen de vereniging. In de wijzigingsgeschiedenis van elke pagina worden de namen van diens auteurs opgeslagen. Hiervoor wordt expliciet toestemming gegeven bij het opslaan van een (wijziging aan een) pagina.
+*Rechtsgrond f, verenigingsdocumentatie*
+Op de wiki van Inter-*Actief* wordt documentatie opgeslagen over processen binnen de vereniging. In de wijzigingsgeschiedenis van elke pagina worden de namen van diens auteurs opgeslagen. 
 
 #### 3.10.3 Verwerkingslogboeken
 *Rechtsgrond f, foutherstelling en privacywaarborging*  
@@ -144,7 +142,7 @@ Bij Inter-*Actief* is het mogelijk om als actief lid coderepositories te uploade
 
 #### 3.10.6 Back-ups van persoonlijke bestanden en verenigingsbestanden
 *Rechtsgrond f, (nood)herstel computersystemen en gegevens*  
-Bij Inter-*Actief* worden regelmatig back-ups gemaakt van alle bestanden, databanken, en overige gegevens die op onze computersystemen aanwezig zijn. Deze back-ups bevatten mogelijk persoonlijke gegevens. De back-ups worden gemaakt om in geval van nood deze gegevens terug te kunnen zetten. Back-ups worden maximaal een jaar bewaard.
+Bij Inter-*Actief* worden regelmatig back-ups gemaakt van alle bestanden, databanken, en overige gegevens die op onze computersystemen aanwezig zijn. Deze back-ups bevatten mogelijk persoonlijke gegevens. De back-ups worden gemaakt om in geval van nood deze gegevens terug te kunnen zetten. Deze back-ups worden versleuteld gedeeld met Backblaze (<a href="https://www.backblaze.com">https://www.backblaze.com</a>), en worden opgeslagen in Europa. Voor deze verwerking heeft Inter-*Actief* een verwerkingsovereenkomst afgesloten met Backblaze. Back-ups worden maximaal een jaar bewaard.
 
 #### 3.10.7 Commissieapplicatie(s)
 *Rechtsgrond a, expliciete toestemming persoon*  
