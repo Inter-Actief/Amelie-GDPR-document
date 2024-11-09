@@ -4,8 +4,9 @@ email: privacy@inter-actief.net
 description: > # this means to ignore newlines until "baseurl:"
   In dit document kan je alle details over privacy binnen Inter-*Actief* vinden.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://privacy.ia.utwente.nl" # the base hostname & protocol for your site
 github_username:  Inter-Actief
+repository: Inter-Actief/Amelie-GDPR-document
 
 # Build settings
 markdown: kramdown
