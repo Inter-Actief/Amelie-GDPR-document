@@ -10,3 +10,17 @@ repository: Inter-Actief/Amelie-GDPR-document
 
 # Build settings
 markdown: kramdown
+exclude:
+  - ".sass-cache/"
+  - ".jekyll-cache/"
+  - "gemfiles/"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules/"
+  - "vendor/bundle/"
+  - "vendor/cache/"
+  - "vendor/gems/"
+  - "vendor/ruby/"
+  - "CNAME"
+  - "Dockerfile"
+  - "README.md"
