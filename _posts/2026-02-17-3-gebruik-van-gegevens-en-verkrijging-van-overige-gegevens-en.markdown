@@ -21,9 +21,9 @@ If a purchase is made at Inter-*Actief*, and the member has not given permission
 *Legal Ground f, obtaining grants and scholarships*  
 Inter-*Actief* sometimes qualifies for grants and scholarships that are issued through the Overleg Studieverenigingen (Organisation of Study associations / OS). These are, for example, grants for participants of the study tour, or scholarships for committee members. For this, the OS sometimes requires personal details of the members that are involved with these activities, to verify that we are actually qualified. In most cases this concerns the names and student numbers of the participants or members. These details will therefore be shared with the Overleg Studieverenigingen.
 
-#### 3.1.5 Transfer to Exact
+#### 3.1.5 Transfer to Moneybird
 *Legal Ground f, keeping digital financial accounts*  
-Inter-*Actief* keeps its accounts in Exact Online. In case members make declarations or receive invoices, the first and last names and bank account numbers of these members will be stored in Exact Online. The declarations and invoices themselves will also be stored, including the personal data stated therein. For the benefit of the financial administration, the names of the committees on whose behalf the declarants declare their expenses are recorded in the declarations.
+Inter-*Actief* keeps its accounts in Moneybird (<a href="https://www.moneybird.nl/privacy/">https://www.moneybird.nl</a>). In case members make declarations or receive invoices, the first and last names and bank account numbers of these members will be stored in Moneybird. The declarations and invoices themselves will also be stored, including the personal data stated therein. For the benefit of the financial administration, the names of the committees on whose behalf the declarants declare their expenses are recorded in the declarations.
 
 ### 3.2 Board and Committee Work
 Every member that voluntarily decides to join a committee grants permission to process their personal details for the purposes of that committee, described in paragraphs [2.1](#21-membership-administration), [2.4](#24-active-members-administration), [3.2](#32-board-and-committee-work), [3.3](#33-processing-of-purchases-and-activities), [3.5](#35-meetings), [3.6](#36-collection-of-personal-details-by-committees), [3.7](#37-legal-requirements) and [3.9](#39-other).
