@@ -56,7 +56,7 @@ Vanwege de aard van sommige activiteiten, die al dan niet gedeeltelijk berusten 
 
 #### 3.3.3 Opvragen deelnemers van activiteiten door andere leden
 *Rechtsgrond f, interne promotie van activiteiten*  
-Een lid van Inter-*Actief* mag op verzoek bij het bestuur de lijst met namen van personen inzien die ingeschreven staan voor een activiteit. Dit wordt gedaan zodat het lid kan zien of er bekenden aanwezig zullen zijn, en zo zijn beslissing om naar de activiteit te komen beter kan maken. Dit bevordert de promotie van activiteiten binnen Inter-*Actief*. De gegevens worden alleen gedeeld na toestemming van het bestuur, de gedeelde informatie wordt beperkt tot de namen van de ingeschreven personen.
+Een lid van Inter-*Actief* kan de lijst met namen van personen inzien die ingeschreven staan voor een activiteit. Dit wordt gedaan zodat het lid kan zien of er bekenden aanwezig zullen zijn, en zo zijn beslissing om naar de activiteit te komen beter kan maken. Dit bevordert de promotie van activiteiten binnen Inter-*Actief*. Leden kunnen hiervoor via de website bezwaar maken zodat hun namen niet worden getoond. De gedeelde informatie wordt beperkt tot de voornaam en eerste letter van de achternaam van de ingeschreven personen.
 
 #### 3.3.4 Publicatie van foto’s van activiteiten
 *Rechtsgrond f, interne en externe promotie van activiteiten*  
@@ -66,10 +66,9 @@ Bij bijna alle activiteiten van Inter-*Actief* worden foto’s gemaakt. De gefot
 *Rechtsgrond c, bewaarplicht financiële administratie*  
 De belastingdienst verplicht verenigingen om hun financiële administratie 7 jaar lang te bewaren volgens de fiscale bewaarplicht[<sup>3</sup>](#referenties). Hieronder vallen bij Inter-*Actief* onder andere de lidmaatschapskosten, aankopen in de streeplijst, aankopen op borrels, inschrijfkosten voor activiteiten en uitgevoerde incasso's.
 
-#### 3.3.6 Doorgifte RFID-codes en student- en/of medewerkersnummers aan Alexia
+#### 3.3.6 Doorgifte RFID-codes, 18+/- status en student- en/of medewerkersnummers aan Alexia
 *Rechtsgrond f, achteraf betalen borrels*  
-Als een lid van Inter-*Actief* een consumptiemachtiging heeft afgesloten met betrekking tot het incasseren van uitgaven bij borrels dan moeten deze aankopen geregistreerd worden zodat de kosten achteraf kunnen worden geïncasseerd. Voor dit doel gebruiken wij het zelfontwikkelde systeem Alexia. Om hier de aankopen in te registreren geven wij de RFID-codes en student- of medewerkersnummers van het lid door aan deze applicatie. Verwerking van deze gegevens wordt verder afgehandeld in het privacydocument van deze applicatie.
-
+Als een lid van Inter-*Actief* een consumptiemachtiging heeft afgesloten met betrekking tot het incasseren van uitgaven bij borrels dan moeten deze aankopen geregistreerd worden zodat de kosten achteraf kunnen worden geïncasseerd. Voor dit doel gebruiken wij het zelfontwikkelde systeem Alexia.Om hier de aankopen in te registreren geven wij de RFID-codes, 18+/- status en student- of medewerkersnummers van het lid door aan deze applicatie. Verwerking van deze gegevens wordt verder afgehandeld in het privacydocument van deze applicatie.
 
 ### 3.4 De doelen van Inter-*Actief*
 

@@ -39,7 +39,7 @@ Phone numbers can be used within the association to quickly make contact between
 Every person that wishes to use the online services of Inter-*Actief* has to be at least sixteen years old, in accordance with the legal requirements. Inter-*Actief* uses the date of birth of a person to determine if they have reached the minimum required age.
 
 *Legal Ground f, compliance with alcohol regulations*  
-At activities of Inter-*Actief* where alcoholic consumptions are being sold to its members, it is forbidden to sell these consumptions to members that are under 18 years old. To clarify which members are underage, Inter-*Actief* maintains a list of birthdays of these members.
+At activities of Inter-*Actief* where alcoholic consumptions are being sold to its members, it is forbidden to sell these consumptions to members that are under 18 years old. To clarify which members are underage, Inter-*Actief* maintains a list of birthdays of these members, and the 18+/- state of a member is displayed in the payment system used by our bar personnel.
 
 *Legal ground a, birthday-related activities*
 Inter-*Actief* also sends a birthday message to her members if the member has given permission for this. The birthday of the member is also published on the website of Inter-*Actief* for other logged in members and around the association room, if the member has given permission to do so.
