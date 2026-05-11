@@ -21,9 +21,9 @@ Als een aankoop gedaan wordt bij Inter-*Actief* en er geen toestemming is gegeve
 *Rechtsgrond f, verkrijging van subsidie en beurzen*  
 Inter-*Actief* komt soms in aanmerking voor subsidies en beurzen die uitgegeven worden via het Overleg Studieverenigingen (OS). Dit zijn bijvoorbeeld subsidies voor studiereisdeelnemers, of beurzen voor commissieleden. Hiervoor heeft het OS soms persoonsgegevens nodig van de leden die betrokken zijn bij deze activiteiten, met het doel om te kunnen verifiëren dat we daadwerkelijk in aanmerking komen. In de meeste gevallen gaat het hier om namen en studentnummers van de deelnemers of leden. Deze gegevens zullen dan ook worden gedeeld met het Overleg Studieverenigingen.
 
-#### 3.1.5 Doorgifte aan Exact
+#### 3.1.5 Doorgifte aan Moneybird
 *Rechtsgrond f, bijhouden van een digitale financiële boekhouding*  
-Inter-*Actief* houdt haar boekhouding bij in Exact Online. In het geval leden declaraties doen of facturen ontvangen, zullen van deze leden de voor- en achternamen en de bankrekeningnummers opgeslagen worden in Exact Online. Ook zullen de declaraties en de facturen zelf worden opgeslagen, inclusief de persoonsgegevens die hierin worden vermeld. Ten behoeve van de administratie van de financiën, worden de namen van de commissies namens wie de declaranten hun uitgaven declareren vastgelegd in de declaraties.
+Inter-*Actief* houdt haar boekhouding bij in Moneybird (<a href="https://www.moneybird.nl/privacy/">https://www.moneybird.nl</a>). In het geval leden declaraties doen of facturen ontvangen, zullen van deze leden de voor- en achternamen en de bankrekeningnummers opgeslagen worden in Moneybird. Ook zullen de declaraties en de facturen zelf worden opgeslagen, inclusief de persoonsgegevens die hierin worden vermeld. Ten behoeve van de administratie van de financiën, worden de namen van de commissies namens wie de declaranten hun uitgaven declareren vastgelegd in de declaraties.
 
 ### 3.2 Bestuurs- en commissiewerk
 Elk lid die vrijwillig besluit toe te treden tot een commissie geeft daarmee expliciete toestemming om hun persoonsgegevens te laten verwerken voor de doelen van deze commissie, beschreven in paragrafen [2.1](#21-ledenadministratie), [2.4](#24-actieve-ledenadministratie), [3.2](#32-bestuurs--en-commissiewerk), [3.3](#33-verwerking-aankopen-en-activiteiten), [3.5](#35-vergaderingen), [3.6](#36-vergaring-van-persoonsgegevens-door-commissies), [3.7](#37-wettelijke-verplichtingen) en [3.9](#39-overige).
@@ -56,7 +56,7 @@ Vanwege de aard van sommige activiteiten, die al dan niet gedeeltelijk berusten 
 
 #### 3.3.3 Opvragen deelnemers van activiteiten door andere leden
 *Rechtsgrond f, interne promotie van activiteiten*  
-Een lid van Inter-*Actief* mag op verzoek bij het bestuur de lijst met namen van personen inzien die ingeschreven staan voor een activiteit. Dit wordt gedaan zodat het lid kan zien of er bekenden aanwezig zullen zijn, en zo zijn beslissing om naar de activiteit te komen beter kan maken. Dit bevordert de promotie van activiteiten binnen Inter-*Actief*. De gegevens worden alleen gedeeld na toestemming van het bestuur, de gedeelde informatie wordt beperkt tot de namen van de ingeschreven personen.
+Een lid van Inter-*Actief* kan de lijst met namen van personen inzien die ingeschreven staan voor een activiteit. Dit wordt gedaan zodat het lid kan zien of er bekenden aanwezig zullen zijn, en zo zijn beslissing om naar de activiteit te komen beter kan maken. Dit bevordert de promotie van activiteiten binnen Inter-*Actief*. Leden kunnen hiervoor via de website bezwaar maken zodat hun namen niet worden getoond. De gedeelde informatie wordt beperkt tot de voornaam en eerste letter van de achternaam van de ingeschreven personen.
 
 #### 3.3.4 Publicatie van foto’s van activiteiten
 *Rechtsgrond f, interne en externe promotie van activiteiten*  
@@ -66,10 +66,9 @@ Bij bijna alle activiteiten van Inter-*Actief* worden foto’s gemaakt. De gefot
 *Rechtsgrond c, bewaarplicht financiële administratie*  
 De belastingdienst verplicht verenigingen om hun financiële administratie 7 jaar lang te bewaren volgens de fiscale bewaarplicht[<sup>3</sup>](#referenties). Hieronder vallen bij Inter-*Actief* onder andere de lidmaatschapskosten, aankopen in de streeplijst, aankopen op borrels, inschrijfkosten voor activiteiten en uitgevoerde incasso's.
 
-#### 3.3.6 Doorgifte RFID-codes en student- en/of medewerkersnummers aan Alexia
+#### 3.3.6 Doorgifte RFID-codes, 18+/- status en student- en/of medewerkersnummers aan Alexia
 *Rechtsgrond f, achteraf betalen borrels*  
-Als een lid van Inter-*Actief* een consumptiemachtiging heeft afgesloten met betrekking tot het incasseren van uitgaven bij borrels dan moeten deze aankopen geregistreerd worden zodat de kosten achteraf kunnen worden geïncasseerd. Voor dit doel gebruiken wij het zelfontwikkelde systeem Alexia. Om hier de aankopen in te registreren geven wij de RFID-codes en student- of medewerkersnummers van het lid door aan deze applicatie. Verwerking van deze gegevens wordt verder afgehandeld in het privacydocument van deze applicatie.
-
+Als een lid van Inter-*Actief* een consumptiemachtiging heeft afgesloten met betrekking tot het incasseren van uitgaven bij borrels dan moeten deze aankopen geregistreerd worden zodat de kosten achteraf kunnen worden geïncasseerd. Voor dit doel gebruiken wij het zelfontwikkelde systeem Alexia.Om hier de aankopen in te registreren geven wij de RFID-codes, 18+/- status en student- of medewerkersnummers van het lid door aan deze applicatie. Verwerking van deze gegevens wordt verder afgehandeld in het privacydocument van deze applicatie.
 
 ### 3.4 De doelen van Inter-*Actief*
 

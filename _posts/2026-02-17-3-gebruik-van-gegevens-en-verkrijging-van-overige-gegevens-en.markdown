@@ -21,9 +21,9 @@ If a purchase is made at Inter-*Actief*, and the member has not given permission
 *Legal Ground f, obtaining grants and scholarships*  
 Inter-*Actief* sometimes qualifies for grants and scholarships that are issued through the Overleg Studieverenigingen (Organisation of Study associations / OS). These are, for example, grants for participants of the study tour, or scholarships for committee members. For this, the OS sometimes requires personal details of the members that are involved with these activities, to verify that we are actually qualified. In most cases this concerns the names and student numbers of the participants or members. These details will therefore be shared with the Overleg Studieverenigingen.
 
-#### 3.1.5 Transfer to Exact
+#### 3.1.5 Transfer to Moneybird
 *Legal Ground f, keeping digital financial accounts*  
-Inter-*Actief* keeps its accounts in Exact Online. In case members make declarations or receive invoices, the first and last names and bank account numbers of these members will be stored in Exact Online. The declarations and invoices themselves will also be stored, including the personal data stated therein. For the benefit of the financial administration, the names of the committees on whose behalf the declarants declare their expenses are recorded in the declarations.
+Inter-*Actief* keeps its accounts in Moneybird (<a href="https://www.moneybird.nl/privacy/">https://www.moneybird.nl</a>). In case members make declarations or receive invoices, the first and last names and bank account numbers of these members will be stored in Moneybird. The declarations and invoices themselves will also be stored, including the personal data stated therein. For the benefit of the financial administration, the names of the committees on whose behalf the declarants declare their expenses are recorded in the declarations.
 
 ### 3.2 Board and Committee Work
 Every member that voluntarily decides to join a committee grants permission to process their personal details for the purposes of that committee, described in paragraphs [2.1](#21-membership-administration), [2.4](#24-active-members-administration), [3.2](#32-board-and-committee-work), [3.3](#33-processing-of-purchases-and-activities), [3.5](#35-meetings), [3.6](#36-collection-of-personal-details-by-committees), [3.7](#37-legal-requirements) and [3.9](#39-other).
@@ -56,7 +56,7 @@ Because of the nature of some activities, which may or may not be based in part 
 
 #### 3.3.3 Request participants of activities by other members
 *Legal Ground f, internal promotion of activities*  
-A member of Inter-*Actief* can, on request at the board, see the list of names of participants that have enrolled for an activity. This is done so that the member can see if friends will be present at the activity, to better make their choice of going to the activity. This improves the promotion of activities within Inter-*Actief*. The information will only be shared after permission by the board, the shared information is limited to the names of the participants. The information is only available for direct inspection. 
+A member of Inter-*Actief* can see the list of names of participants that have enrolled for an activity. This is done so that the member can see if friends will be present at the activity, to better make their choice of going to the activity. This improves the promotion of activities within Inter-*Actief*. Members can object to this processing of their names via a preference on the website, in which case their names will not be shown in the list. The shared information is limited to the first name, and the first letter of the last name of the enrolled participants.
 
 #### 3.3.4 Publication of Pictures of Activities
 *Legal Ground f, internal and external promotion of activities*  
@@ -66,9 +66,9 @@ Pictures are made at almost all activities of Inter-*Actief*. The photographed p
 *Legal Ground c, retention of financial records*  
 The tax authorities requires associations to keep their financial administration for 7 years according to the fiscal retention[<sup>3</sup>](#references). At Inter-*Actief* this includes, among other things, the membership fees, purchases in the cookie corner, purchases during drinks, enrollment costs for activities and debt collections that were issued.
 
-#### 3.3.6 Transfer of RFID-codes and Student and/or Employee Numbers to Alexia
+#### 3.3.6 Transfer of RFID-codes, 18+/- state and Student and/or Employee Numbers to Alexia
 *Legal Ground f, postpay on drinks*  
-If a member of Inter-*Actief* has signed a consumption authorization with regard to collecting expenses at drinks, then these purchases need to be registered so that the incurred costs can be collected at a later date. For this purpose we use an internally developed system called Alexia. To register the purchases in this system we share the RFID-codes and student or employee numbers of the member with this application. The details of the data processing of this system are handled further in the privacy document of this application.
+If a member of Inter-*Actief* has signed a consumption authorization with regard to collecting expenses at drinks, then these purchases need to be registered so that the incurred costs can be collected at a later date. For this purpose we use an internally developed system called Alexia. To register the purchases in this system we share the RFID-codes, 18+/- state and student or employee numbers of the member with this application. The details of the data processing of this system are handled further in the privacy document of this application.
 
 ### 3.4 The Goals of Inter-*Actief*
 
